@@ -8,6 +8,7 @@ from pydantic import BaseModel, Field
 from swarms import OpenAIChat
 from swarms import Agent
 from dotenv import load_dotenv
+from medinsight.pub_med import query_pubmed_with_abstract
 
 load_dotenv()
 
@@ -81,23 +82,25 @@ class MedInsightPro:
         semantic_scholar_api_key: str = None,
         system_prompt: str = med_sys_prompt,
         agent: Agent = agent,
+        max_articles: int = 10,
     ):
         self.pubmed_api_key = pubmed_api_key
         self.semantic_scholar_api_key = semantic_scholar_api_key
         self.system_prompt = system_prompt
         self.agent = agent
+        self.max_articles = max_articles
 
         # Initialize the metadata history log
         self.metadata_log: List[MedInsightMetadata] = []
 
     # Function to access PubMed data
-    def fetch_pubmed_data(self, query, max_results=10):
+    def fetch_pubmed_data(self, query: str):
         logger.info(f"Fetching data from PubMed for query: {query}")
         url = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
         params = {
             "db": "pubmed",
             "term": query,
-            "retmax": max_results,
+            "retmax": self.max_articles,
             "api_key": self.pubmed_api_key,
             "retmode": "json",
         }
@@ -116,11 +119,14 @@ class MedInsightPro:
             fetch_response = requests.get(
                 fetch_url, params=fetch_params
             )
-            return fetch_response.json()
+
+            return json.dumps(fetch_response.json())
         return {}
 
     # Function to access Semantic Scholar data
-    def fetch_semantic_scholar_data(self, query, max_results=10):
+    def fetch_semantic_scholar_data(
+        self, query: str, max_results: int = 10
+    ):
         logger.info(
             f"Fetching data from Semantic Scholar for query: {query}"
         )
@@ -134,13 +140,15 @@ class MedInsightPro:
     def run(self, task: str):
         logger.info(f"Running MedInsightPro agent for task: {task}")
         status = "success"
-        pubmed_data, semantic_scholar_data = {}, {}
+        # pubmed_data, semantic_scholar_data = {}, {}
         combined_summary = ""
 
         try:
             # Fetch data from PubMed
             if self.pubmed_api_key:
-                pubmed_data = self.fetch_pubmed_data(task)
+                pubmed_data = query_pubmed_with_abstract(
+                    query=task, max_articles=self.max_articles
+                )
                 logger.info(f"PubMed data: {pubmed_data}")
 
             # Fetch data from Semantic Scholar
@@ -150,7 +158,12 @@ class MedInsightPro:
                 )
 
             # Summarize data with GPT-4
-            combined_summary_input = f"PubMed Data: {pubmed_data}\nSemantic Scholar Data: {semantic_scholar_data}"
+            # combined_summary_input = f"PubMed Data: {pubmed_data}\nSemantic Scholar Data: {semantic_scholar_data}"
+            if pubmed_data:
+                combined_summary_input = pubmed_data
+            else:
+                combined_summary_input = semantic_scholar_data
+
             combined_summary = self.agent.run(combined_summary_input)
             logger.info(f"Summarization completed for task: {task}")
         except Exception as e:
@@ -158,12 +171,13 @@ class MedInsightPro:
                 f"Error during processing task: {task}. Error: {e}"
             )
             status = "failure"
+            raise e
 
         # Log metadata
         metadata = MedInsightMetadata(
             query=task,
-            pubmed_results=pubmed_data,
-            semantic_scholar_results=semantic_scholar_data,
+            # pubmed_results=pubmed_data,
+            # semantic_scholar_results=semantic_scholar_data,
             combined_summary=combined_summary,
             status=status,
         )
