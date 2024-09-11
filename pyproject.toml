@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "medinsight"
-version = "0.0.2"
+version = "0.0.4"
 description = "MedInsight - Swarms - "
 license = "MIT"
 authors = ["Kye Gomez <kye@apac.ai>"]
@@ -26,6 +26,7 @@ python = "^3.10"
 swarms = "*"
 loguru = "*"
 pydantic = "*"
+biopython = "*"
 
 [tool.poetry.group.lint.dependencies]
 ruff = "^0.1.6"

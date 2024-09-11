@@ -46,6 +46,7 @@ OPENAI_API_KEY="your-openai-api-key"
 PUBMED_API_KEY="your-pubmed-api-key"  # Optional, but increases rate limits
 SEMANTIC_SCHOLAR_API_KEY="your-semantic-scholar-api-key"
 WORKSPACE_ID="your-workspace-id" # Your workspace ID 
+ENTREZ_EMAIL="your-email@example.com"
 ```
 
 ### Usage
