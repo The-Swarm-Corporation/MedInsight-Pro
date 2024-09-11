@@ -33,36 +33,31 @@ MedInsight Pro delivers precise, data-driven insights for healthcare leaders, re
 ### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/medinsight-pro.git
-
-# Navigate to the project directory
-cd medinsight-pro
-
-# Install required dependencies
-pip install -r requirements.txt
+$ pip install -U medinsight
 ```
 
 ### API Keys Setup
-MedInsight Pro requires access to the OpenAI API, PubMed, and Semantic Scholar APIs. You’ll need to set up environment variables for these keys:
+MedInsight Pro requires access to the OpenAI API, PubMed, and Semantic Scholar APIs. You’ll need to set up environment variables for these keys in your .env file:
 
 ```bash
-export OPENAI_API_KEY="your-openai-api-key"
-export PUBMED_API_KEY="your-pubmed-api-key"  # Optional, but increases rate limits
-export SEMANTIC_SCHOLAR_API_KEY="your-semantic-scholar-api-key"
+OPENAI_API_KEY="your-openai-api-key"
+PUBMED_API_KEY="your-pubmed-api-key"  # Optional, but increases rate limits
+SEMANTIC_SCHOLAR_API_KEY="your-semantic-scholar-api-key"
+WORKSPACE_ID="your-workspace-id" # Your workspace ID 
 ```
 
 ### Usage
 
 ```python
-from medinsight_pro import MedInsightPro
+from medinsight.agent import MedInsightPro
 
 # Initialize the MedInsight Pro agent
 agent = MedInsightPro()
 
 # Run a query to summarize the latest medical research on COVID-19 treatments
-output = agent.run(query="COVID-19 treatments")
+output = agent.run("COVID-19 treatments")
 print(output)
+
 ```
 
 ### Integration
@@ -74,14 +69,6 @@ MedInsight Pro can be easily integrated with existing medical research platforms
 
 ---
 
-### Example
-
-Here’s an example of MedInsight Pro in action, summarizing research papers on **Alzheimer’s Disease Treatments**:
-
-```python
-output = agent.run(query="Alzheimer’s disease treatments")
-print(output)
-```
 
 **Sample Output**:
 
