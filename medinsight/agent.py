@@ -1,6 +1,5 @@
 import os
 import json
-from datetime import datetime
 from typing import Dict, List, Optional
 
 import requests
@@ -8,6 +7,9 @@ from loguru import logger
 from pydantic import BaseModel, Field
 from swarms import OpenAIChat
 from swarms import Agent
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Ensure loguru logs are saved to a file
 logger.add("medinsight_pro_logs.log", rotation="500 MB")
@@ -30,39 +32,18 @@ class MedInsightMetadata(BaseModel):
     combined_summary: Optional[str] = Field(
         None, description="Final summarized output from the agent"
     )
-    timestamp: datetime = Field(
-        default_factory=datetime.utcnow,
-        description="Time the request was processed",
-    )
     status: str = Field(
         ...,
         description="Status of the agent task, e.g., success or failure",
     )
 
-    class Config:
-        schema_extra = {
-            "example": {
-                "query": "COVID-19 treatments",
-                "pubmed_results": {
-                    "paper_id": {"title": "COVID-19 vaccine trials"}
-                },
-                "semantic_scholar_results": {
-                    "paper_id": {
-                        "title": "Effectiveness of mRNA vaccines"
-                    }
-                },
-                "combined_summary": "Recent studies highlight the efficacy of mRNA vaccines in preventing COVID-19...",
-                "timestamp": "2023-09-10T12:00:00Z",
-                "status": "success",
-            }
-        }
-
 
 # Create an instance of the OpenAIChat class with GPT-4
 model = OpenAIChat(
-    api_key=openai_api_key,
-    model_name="gpt-4",
+    openai_api_key=openai_api_key,
+    model_name="gpt-4o-mini",
     temperature=0.1,  # Maintain a lower temperature for more focused summarization
+    max_tokens=1000,
 )
 
 # Define the system prompt
@@ -79,7 +60,7 @@ agent = Agent(
     agent_name="Medical-Summarization-Agent",  # Custom agent name
     system_prompt=med_sys_prompt,
     llm=model,
-    max_loops=3,  # Adjust loop count based on summarization needs
+    max_loops=1,  # Adjust loop count based on summarization needs
     autosave=True,
     dashboard=False,
     verbose=True,
@@ -96,13 +77,11 @@ agent = Agent(
 class MedInsightPro:
     def __init__(
         self,
-        openai_api_key: str,
-        pubmed_api_key: str = None,
+        pubmed_api_key: str = pubmed_api_key,
         semantic_scholar_api_key: str = None,
         system_prompt: str = med_sys_prompt,
         agent: Agent = agent,
     ):
-        self.openai_api_key = openai_api_key
         self.pubmed_api_key = pubmed_api_key
         self.semantic_scholar_api_key = semantic_scholar_api_key
         self.system_prompt = system_prompt
@@ -162,6 +141,7 @@ class MedInsightPro:
             # Fetch data from PubMed
             if self.pubmed_api_key:
                 pubmed_data = self.fetch_pubmed_data(task)
+                logger.info(f"PubMed data: {pubmed_data}")
 
             # Fetch data from Semantic Scholar
             if self.semantic_scholar_api_key:

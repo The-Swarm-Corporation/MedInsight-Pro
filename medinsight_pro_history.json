@@ -1,0 +1,1309 @@
+[
+    {
+        "query": "COVID-19 treatments",
+        "pubmed_results": {
+            "header": {
+                "type": "esummary",
+                "version": "0.3"
+            },
+            "result": {
+                "uids": [
+                    "32401466",
+                    "39259584",
+                    "39259409",
+                    "39259402",
+                    "39259088",
+                    "39259085",
+                    "39259072",
+                    "39259017",
+                    "39258962",
+                    "39258943"
+                ],
+                "32401466": {
+                    "uid": "32401466",
+                    "pubdate": "2006",
+                    "epubdate": "",
+                    "source": "",
+                    "authors": [],
+                    "lastauthor": "",
+                    "title": "Remdesivir.",
+                    "sorttitle": "remdesivir",
+                    "volume": "",
+                    "issue": "",
+                    "pages": "",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "",
+                    "issn": "",
+                    "essn": "",
+                    "pubtype": [
+                        "Review"
+                    ],
+                    "recordstatus": "PubMed",
+                    "pubstatus": "ppublish",
+                    "articleids": [
+                        {
+                            "idtype": "bookaccession",
+                            "idtypen": 8,
+                            "value": "NBK556881"
+                        },
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "32401466"
+                        }
+                    ],
+                    "history": [],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "",
+                    "elocationid": "",
+                    "doctype": "chapter",
+                    "srccontriblist": [],
+                    "booktitle": "Drugs and Lactation Database (LactMed\u00ae)",
+                    "medium": "Internet",
+                    "edition": "",
+                    "publisherlocation": "Bethesda (MD)",
+                    "publishername": "National Institute of Child Health and Human Development",
+                    "srcdate": "2006-",
+                    "reportnumber": "",
+                    "availablefromurl": "http://www.ncbi.nlm.nih.gov/books/NBK556881/",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "2024 Sep 15",
+                    "bookname": "lactmed",
+                    "chapter": "remdesevir",
+                    "sortpubdate": "2024/09/15 00:00",
+                    "sortfirstauthor": "",
+                    "vernaculartitle": ""
+                },
+                "39259584": {
+                    "uid": "39259584",
+                    "pubdate": "2024 Sep 11",
+                    "epubdate": "2024 Sep 11",
+                    "source": "J Phys Ther Educ",
+                    "authors": [
+                        {
+                            "name": "Becker BJ",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Jewell J",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Stejskal L",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Browning K",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Labosky B",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Berry JW",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Berry JW",
+                    "title": "How Do Virtual Communities of Practice Enhance Professional Connections and Social Capital?",
+                    "sorttitle": "how do virtual communities of practice enhance professional connections and social capital",
+                    "volume": "",
+                    "issue": "",
+                    "pages": "",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "9306054",
+                    "issn": "0899-1855",
+                    "essn": "1938-3533",
+                    "pubtype": [
+                        "Journal Article"
+                    ],
+                    "recordstatus": "PubMed - as supplied by publisher",
+                    "pubstatus": "10",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39259584"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.1097/JTE.0000000000000371"
+                        },
+                        {
+                            "idtype": "pii",
+                            "idtypen": 4,
+                            "value": "00001416-990000000-00128"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "received",
+                            "date": "2023/10/19 00:00"
+                        },
+                        {
+                            "pubstatus": "accepted",
+                            "date": "2024/07/04 00:00"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 11:53"
+                        }
+                    ],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "Journal, physical therapy education",
+                    "elocationid": "doi: 10.1097/JTE.0000000000000371",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/09/11 00:00",
+                    "sortfirstauthor": "Becker BJ",
+                    "vernaculartitle": ""
+                },
+                "39259409": {
+                    "uid": "39259409",
+                    "pubdate": "2024 Sep 11",
+                    "epubdate": "2024 Sep 11",
+                    "source": "Cell Biochem Biophys",
+                    "authors": [
+                        {
+                            "name": "Omotoso OD",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Joshua FO",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Oyebanmiji AK",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Ebenezer O",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Ebenezer O",
+                    "title": "Molecular Modeling Studies of Similar Molecules to Selective Estrogen Receptor Degrader Elacestrant as Inhibitors of SARS-COV-2.",
+                    "sorttitle": "molecular modeling studies of similar molecules to selective estrogen receptor degrader elacestrant as inhibitors of sars cov 2",
+                    "volume": "",
+                    "issue": "",
+                    "pages": "",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "9701934",
+                    "issn": "1085-9195",
+                    "essn": "1559-0283",
+                    "pubtype": [
+                        "Journal Article"
+                    ],
+                    "recordstatus": "PubMed - as supplied by publisher",
+                    "pubstatus": "10",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39259409"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.1007/s12013-024-01506-3"
+                        },
+                        {
+                            "idtype": "pii",
+                            "idtypen": 4,
+                            "value": "10.1007/s12013-024-01506-3"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "accepted",
+                            "date": "2024/08/25 00:00"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 11:19"
+                        }
+                    ],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "Cell biochemistry and biophysics",
+                    "elocationid": "doi: 10.1007/s12013-024-01506-3",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/09/11 00:00",
+                    "sortfirstauthor": "Omotoso OD",
+                    "vernaculartitle": ""
+                },
+                "39259402": {
+                    "uid": "39259402",
+                    "pubdate": "2024 Sep 11",
+                    "epubdate": "2024 Sep 11",
+                    "source": "Ann Intensive Care",
+                    "authors": [
+                        {
+                            "name": "Terrier CL",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Walter T",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Lebbah S",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Hajage D",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Sigaud F",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Gu\u00e9rin C",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Desmedt L",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Primmaz S",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Joussellin V",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Badia CD",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Ricard JD",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Pugin J",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Terzi N",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "COVID-ICU Group on behalf of the REVA Network and the COVID-ICU Investigators",
+                            "authtype": "CollectiveName",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Terzi N",
+                    "title": "Correction to: Impact of intensive prone position therapy on outcomes in intubated patients with ARDS related to COVID-19.",
+                    "sorttitle": "correction to impact of intensive prone position therapy on outcomes in intubated patients with ards related to covid 19",
+                    "volume": "14",
+                    "issue": "1",
+                    "pages": "142",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "101562873",
+                    "issn": "2110-5820",
+                    "essn": "",
+                    "pubtype": [
+                        "Published Erratum"
+                    ],
+                    "recordstatus": "PubMed",
+                    "pubstatus": "3",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39259402"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.1186/s13613-024-01374-3"
+                        },
+                        {
+                            "idtype": "pii",
+                            "idtypen": 4,
+                            "value": "10.1186/s13613-024-01374-3"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:44"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 11:19"
+                        }
+                    ],
+                    "references": [
+                        {
+                            "refsource": "Ann Intensive Care. 2024 Jun 27;14(1):100. doi: 10.1186/s13613-024-01340-z",
+                            "reftype": "Erratum for",
+                            "pmid": 38935175,
+                            "note": ""
+                        }
+                    ],
+                    "attributes": [],
+                    "pmcrefcount": "",
+                    "fulljournalname": "Annals of intensive care",
+                    "elocationid": "doi: 10.1186/s13613-024-01374-3",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/09/11 00:00",
+                    "sortfirstauthor": "Terrier CL",
+                    "vernaculartitle": ""
+                },
+                "39259088": {
+                    "uid": "39259088",
+                    "pubdate": "2024 May 31",
+                    "epubdate": "",
+                    "source": "Medicine (Baltimore)",
+                    "authors": [
+                        {
+                            "name": "Li P",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Wen L",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Sun B",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Sun W",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Chen H",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Chen H",
+                    "title": "Retrospective estimation of the time-varying effective reproduction number for a COVID-19 outbreak in Shenyang, China: An observational study.",
+                    "sorttitle": "retrospective estimation of the time varying effective reproduction number for a covid 19 outbreak in shenyang china an observational study",
+                    "volume": "103",
+                    "issue": "22",
+                    "pages": "e38373",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "2985248R",
+                    "issn": "0025-7974",
+                    "essn": "1536-5964",
+                    "pubtype": [
+                        "Journal Article"
+                    ],
+                    "recordstatus": "PubMed - indexed for MEDLINE",
+                    "pubstatus": "4",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39259088"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.1097/MD.0000000000038373"
+                        },
+                        {
+                            "idtype": "pii",
+                            "idtypen": 4,
+                            "value": "00005792-202405310-00036"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:44"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 10:24"
+                        }
+                    ],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "Medicine",
+                    "elocationid": "doi: 10.1097/MD.0000000000038373",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/05/31 00:00",
+                    "sortfirstauthor": "Li P",
+                    "vernaculartitle": ""
+                },
+                "39259085": {
+                    "uid": "39259085",
+                    "pubdate": "2024 May 31",
+                    "epubdate": "",
+                    "source": "Medicine (Baltimore)",
+                    "authors": [
+                        {
+                            "name": "Han CH",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Lee S",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Chung JH",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Chung JH",
+                    "title": "Association of the COVID-19 lockdown with health risk behaviors in South Korean adolescents.",
+                    "sorttitle": "association of the covid 19 lockdown with health risk behaviors in south korean adolescents",
+                    "volume": "103",
+                    "issue": "22",
+                    "pages": "e38453",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "2985248R",
+                    "issn": "0025-7974",
+                    "essn": "1536-5964",
+                    "pubtype": [
+                        "Journal Article"
+                    ],
+                    "recordstatus": "PubMed - indexed for MEDLINE",
+                    "pubstatus": "4",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39259085"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.1097/MD.0000000000038453"
+                        },
+                        {
+                            "idtype": "pii",
+                            "idtypen": 4,
+                            "value": "00005792-202405310-00033"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:44"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 10:24"
+                        }
+                    ],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "Medicine",
+                    "elocationid": "doi: 10.1097/MD.0000000000038453",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/05/31 00:00",
+                    "sortfirstauthor": "Han CH",
+                    "vernaculartitle": ""
+                },
+                "39259072": {
+                    "uid": "39259072",
+                    "pubdate": "2024 May 31",
+                    "epubdate": "",
+                    "source": "Medicine (Baltimore)",
+                    "authors": [
+                        {
+                            "name": "Ameri A",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Farashahinejad M",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Davoodian P",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Safa O",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Hassaniazad M",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Parsaii M",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Heidari B",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Hassanipour S",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Akhlaghi B",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Fathalipour M",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Fathalipour M",
+                    "title": "The efficacy and safety of ginger (Zingiber officinale) rhizome extract in outpatients with COVID-19: A randomized double-blind placebo-control clinical trial.",
+                    "sorttitle": "efficacy and safety of ginger zingiber officinale rhizome extract in outpatients with covid 19 a randomized double blind placebo control clinical trial",
+                    "volume": "103",
+                    "issue": "22",
+                    "pages": "e38289",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "2985248R",
+                    "issn": "0025-7974",
+                    "essn": "1536-5964",
+                    "pubtype": [
+                        "Journal Article",
+                        "Randomized Controlled Trial"
+                    ],
+                    "recordstatus": "PubMed - indexed for MEDLINE",
+                    "pubstatus": "4",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39259072"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.1097/MD.0000000000038289"
+                        },
+                        {
+                            "idtype": "pii",
+                            "idtypen": 4,
+                            "value": "00005792-202405310-00020"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:47"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:46"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 10:24"
+                        }
+                    ],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "Medicine",
+                    "elocationid": "doi: 10.1097/MD.0000000000038289",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/05/31 00:00",
+                    "sortfirstauthor": "Ameri A",
+                    "vernaculartitle": ""
+                },
+                "39259017": {
+                    "uid": "39259017",
+                    "pubdate": "2024 Sep",
+                    "epubdate": "",
+                    "source": "Health Technol Assess",
+                    "authors": [
+                        {
+                            "name": "Tew GA",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Wiley L",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Ward L",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Hugill-Jones JG",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Maturana CS",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Fairhurst CM",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Bell KJ",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Bissell L",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Booth A",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Howsam J",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Mount V",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Rapley T",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Ronaldson SJ",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Rose F",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Torgerson DJ",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Yates D",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Hewitt CE",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Hewitt CE",
+                    "title": "Chair-based yoga programme for older adults with multimorbidity: RCT with embedded economic and process evaluations.",
+                    "sorttitle": "chair based yoga programme for older adults with multimorbidity rct with embedded economic and process evaluations",
+                    "volume": "28",
+                    "issue": "53",
+                    "pages": "1-152",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "9706284",
+                    "issn": "1366-5278",
+                    "essn": "2046-4924",
+                    "pubtype": [
+                        "Journal Article",
+                        "Randomized Controlled Trial",
+                        "Multicenter Study"
+                    ],
+                    "recordstatus": "PubMed - indexed for MEDLINE",
+                    "pubstatus": "4",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39259017"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.3310/KPGN4216"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:44"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 09:53"
+                        }
+                    ],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "Health technology assessment (Winchester, England)",
+                    "elocationid": "doi: 10.3310/KPGN4216",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/09/01 00:00",
+                    "sortfirstauthor": "Tew GA",
+                    "vernaculartitle": ""
+                },
+                "39258962": {
+                    "uid": "39258962",
+                    "pubdate": "2024 Sep",
+                    "epubdate": "",
+                    "source": "Health Technol Assess",
+                    "authors": [
+                        {
+                            "name": "Marshman Z",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Ainsworth H",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Fairhurst C",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Whiteside K",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Sykes D",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Keetharuth A",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "El Yousfi S",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Turner E",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Day PF",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Chestnutt IG",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Dixon S",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Kellar I",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Gilchrist F",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Robertson M",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Pavitt S",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Hewitt C",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Dey D",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Torgerson D",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Pollard L",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Manser E",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Seifo N",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Araujo M",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Al-Yaseen W",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Jones C",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Hicks K",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Rowles K",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Innes N",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Innes N",
+                    "title": "Behaviour change intervention (education and text) to prevent dental caries in secondary school pupils: BRIGHT RCT, process and economic evaluation.",
+                    "sorttitle": "behaviour change intervention education and text to prevent dental caries in secondary school pupils bright rct process and economic evaluation",
+                    "volume": "28",
+                    "issue": "52",
+                    "pages": "1-142",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "9706284",
+                    "issn": "1366-5278",
+                    "essn": "2046-4924",
+                    "pubtype": [
+                        "Journal Article",
+                        "Randomized Controlled Trial",
+                        "Multicenter Study"
+                    ],
+                    "recordstatus": "PubMed - indexed for MEDLINE",
+                    "pubstatus": "4",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39258962"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.3310/JQTA2103"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:44"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 09:23"
+                        }
+                    ],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "Health technology assessment (Winchester, England)",
+                    "elocationid": "doi: 10.3310/JQTA2103",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/09/01 00:00",
+                    "sortfirstauthor": "Marshman Z",
+                    "vernaculartitle": ""
+                },
+                "39258943": {
+                    "uid": "39258943",
+                    "pubdate": "2024 Sep 10",
+                    "epubdate": "2024 Sep 10",
+                    "source": "Eur J Transl Myol",
+                    "authors": [
+                        {
+                            "name": "Maccarone MC",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Barzizza E",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Contessa P",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Biancato A",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Caregnato A",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Fontana R",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Ceccato R",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Salmaso L",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        },
+                        {
+                            "name": "Masiero S",
+                            "authtype": "Author",
+                            "clusterid": ""
+                        }
+                    ],
+                    "lastauthor": "Masiero S",
+                    "title": "Lessons from the pandemic era: do we need new strategies to improve conservative treatment adherence in adolescent idiopathic scoliosis? A retrospective analysis.",
+                    "sorttitle": "lessons from the pandemic era do we need new strategies to improve conservative treatment adherence in adolescent idiopathic scoliosis a retrospective analysis",
+                    "volume": "",
+                    "issue": "",
+                    "pages": "",
+                    "lang": [
+                        "eng"
+                    ],
+                    "nlmuniqueid": "101576208",
+                    "issn": "2037-7452",
+                    "essn": "",
+                    "pubtype": [
+                        "Journal Article"
+                    ],
+                    "recordstatus": "PubMed - as supplied by publisher",
+                    "pubstatus": "10",
+                    "articleids": [
+                        {
+                            "idtype": "pubmed",
+                            "idtypen": 1,
+                            "value": "39258943"
+                        },
+                        {
+                            "idtype": "doi",
+                            "idtypen": 3,
+                            "value": "10.4081/ejtm.2024.12859"
+                        }
+                    ],
+                    "history": [
+                        {
+                            "pubstatus": "medline",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "pubmed",
+                            "date": "2024/09/11 12:45"
+                        },
+                        {
+                            "pubstatus": "received",
+                            "date": "2024/07/26 00:00"
+                        },
+                        {
+                            "pubstatus": "accepted",
+                            "date": "2024/07/27 00:00"
+                        },
+                        {
+                            "pubstatus": "entrez",
+                            "date": "2024/09/11 09:13"
+                        }
+                    ],
+                    "references": [],
+                    "attributes": [
+                        "Has Abstract"
+                    ],
+                    "pmcrefcount": "",
+                    "fulljournalname": "European journal of translational myology",
+                    "elocationid": "doi: 10.4081/ejtm.2024.12859",
+                    "doctype": "citation",
+                    "srccontriblist": [],
+                    "booktitle": "",
+                    "medium": "",
+                    "edition": "",
+                    "publisherlocation": "",
+                    "publishername": "",
+                    "srcdate": "",
+                    "reportnumber": "",
+                    "availablefromurl": "",
+                    "locationlabel": "",
+                    "doccontriblist": [],
+                    "docdate": "",
+                    "bookname": "",
+                    "chapter": "",
+                    "sortpubdate": "2024/09/10 00:00",
+                    "sortfirstauthor": "Maccarone MC",
+                    "vernaculartitle": ""
+                }
+            }
+        },
+        "semantic_scholar_results": {},
+        "combined_summary": "Here are concise summaries of the recent medical research articles based on the provided PubMed data:\n\n1. **Remdesivir** (2006)\n   - **Source**: Drugs and Lactation Database (LactMed\u00ae)\n   - **Summary**: This review discusses the use of Remdesivir, an antiviral medication, particularly in the context of lactation. It provides insights into its pharmacokinetics and safety profile for breastfeeding mothers. [Link to full text](http://www.ncbi.nlm.nih.gov/books/NBK556881/)\n\n2. **Virtual Communities of Practice** (2024)\n   - **Authors**: Becker BJ et al.\n   - **Source**: Journal of Physical Therapy Education\n   - **Summary**: This study explores how virtual communities enhance professional connections and social capital among physical therapy educators, suggesting that such platforms can foster collaboration and knowledge sharing.\n\n3. **Selective Estrogen Receptor Degrader Elacestrant** (2024)\n   - **Authors**: Omotoso OD et al.\n   - **Source**: Cell Biochemistry and Biophysics\n   - **Summary**: Molecular modeling studies identify potential inhibitors of SARS-CoV-2 that are similar to Elacestrant, indicating a novel approach to targeting the virus through estrogen receptor modulation.\n\n4. **Prone Position Therapy in ARDS** (2024)\n   - **Authors**: Terrier CL et al.\n   - **Source**: Annals of Intensive Care\n   - **Summary**: This correction article addresses the impact of intensive prone position therapy on outcomes in intubated patients with COVID-19 related ARDS, emphasizing the importance of this intervention in critical care settings.\n\n5. **COVID-19 Reproduction Number Estimation** (2024)\n   - **Authors**: Li P et al.\n   - **Source**: Medicine (Baltimore)\n   - **Summary**: This observational study retrospectively estimates the time-varying effective reproduction number for a COVID-19 outbreak in Shenyang, China, providing valuable data for public health responses.\n\n6. **Health Risk Behaviors in Adolescents** (2024)\n   - **Authors**: Han CH et al.\n   - **Source**: Medicine (Baltimore)\n   - **Summary**: The study investigates the association between the COVID-19 lockdown and health risk behaviors in South Korean adolescents, highlighting the pandemic's impact on youth health.\n\n7. **Ginger Extract in COVID-19 Patients** (2024)\n   - **Authors**: Ameri A et al.\n   - **Source**: Medicine (Baltimore)\n   - **Summary**: A randomized controlled trial evaluates the efficacy and safety of ginger rhizome extract in outpatients with COVID-19, suggesting potential therapeutic benefits.\n\n8. **Chair-Based Yoga for Older Adults** (2024)\n   - **Authors**: Tew GA et al.\n   - **Source**: Health Technology Assessment\n   - **Summary**: This randomized controlled trial assesses a chair-based yoga program for older adults with multimorbidity, providing insights into its feasibility and health benefits.\n\n9. **Behavior Change Intervention for Dental Caries Prevention** (2024)\n   - **Authors**: Marshman Z et al.\n   - **Source**: Health Technology Assessment\n   - **Summary**: The BRIGHT RCT evaluates an educational intervention aimed at preventing dental caries in secondary school pupils, emphasizing the need for effective public health strategies.\n\n10. **Conservative Treatment Adherence in Scoliosis** (2024)\n    - **Authors**: Maccarone MC et al.\n    - **Source**: European Journal of Translational Myology\n    - **Summary**: This retrospective analysis discusses strategies to improve adherence to conservative treatments for adolescent idiopathic scoliosis, particularly in the context of lessons learned during the pandemic.\n\nThese summaries highlight ongoing research, potential treatments, and important insights relevant to healthcare professionals and researchers.",
+        "status": "success"
+    }
+]
