@@ -143,7 +143,7 @@ def query_pubmed_with_abstract(
             merged_string += "\n"
 
         # print(merged_string)  # Print the final merged string
-        return merged_string
+        return merged_string, article_list
     except Exception as e:
         logger.exception(
             f"An error occurred during the PubMed query: {e}"

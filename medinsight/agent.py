@@ -1,3 +1,4 @@
+import time
 import os
 import json
 from typing import Dict, List, Optional
@@ -17,6 +18,7 @@ logger.add("medinsight_pro_logs.log", rotation="500 MB")
 openai_api_key = os.getenv("OPENAI_API_KEY")
 semantic_scholar_api_key = os.getenv("SEMANTIC_SCHOLAR_API_KEY")
 pubmed_api_key = os.getenv("PUBMED_API_KEY")
+time_stamp = time.strftime("%Y-%m-%d_%H-%M-%S")
 
 
 # Define the Pydantic schema for logging metadata
@@ -24,7 +26,7 @@ class MedInsightMetadata(BaseModel):
     query: str = Field(
         ..., description="The task or query sent to the agent"
     )
-    pubmed_results: Optional[Dict] = Field(
+    pubmed_results: Optional[List[Dict]] = Field(
         None, description="Results fetched from PubMed"
     )
     semantic_scholar_results: Optional[Dict] = Field(
@@ -36,6 +38,9 @@ class MedInsightMetadata(BaseModel):
     status: str = Field(
         ...,
         description="Status of the agent task, e.g., success or failure",
+    )
+    time_stamp: str = Field(
+        time_stamp, description="Timestamp of the agent task"
     )
 
 
@@ -146,7 +151,7 @@ class MedInsightPro:
         try:
             # Fetch data from PubMed
             if self.pubmed_api_key:
-                pubmed_data = query_pubmed_with_abstract(
+                pubmed_data, pubmed_dict = query_pubmed_with_abstract(
                     query=task, max_articles=self.max_articles
                 )
                 logger.info(f"PubMed data: {pubmed_data}")
@@ -176,7 +181,7 @@ class MedInsightPro:
         # Log metadata
         metadata = MedInsightMetadata(
             query=task,
-            # pubmed_results=pubmed_data,
+            pubmed_results=pubmed_dict,
             # semantic_scholar_results=semantic_scholar_data,
             combined_summary=combined_summary,
             status=status,
@@ -190,7 +195,7 @@ class MedInsightPro:
 
     # Method to save the metadata log to a JSON file
     def save_metadata_log(self):
-        log_file = "medinsight_pro_history.json"
+        log_file = f"medinsight_pro_history_time:{time_stamp}.json"
         with open(log_file, "w") as f:
             json.dump(
                 [metadata.dict() for metadata in self.metadata_log],

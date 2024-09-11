@@ -4,5 +4,5 @@ from medinsight.agent import MedInsightPro
 agent = MedInsightPro(max_articles=4)
 
 # Run a query to summarize the latest medical research on COVID-19 treatments
-output = agent.run("COVID-19 treatments")
+output = agent.run("pancreatic cancer")
 print(output)

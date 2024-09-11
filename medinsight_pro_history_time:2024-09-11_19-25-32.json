@@ -1,0 +1,100 @@
+[
+    {
+        "query": "pancreatic cancer",
+        "pubmed_results": [
+            {
+                "Title": "Genome-Derived Ampullary Adenocarcinoma Classifier and Postresection Prognostication.",
+                "PMID": "39259526",
+                "Authors": [
+                    "Ecker BL",
+                    "Seier K",
+                    "Eckhoff AM",
+                    "Tortorello GN",
+                    "Allen PJ",
+                    "Balachandran VP",
+                    "Blackburn N",
+                    "D'Angelica MI",
+                    "DeMatteo RP",
+                    "Blazer DG",
+                    "Drebin JA",
+                    "Fisher WE",
+                    "Fortuna D",
+                    "Gill AJ",
+                    "Gingras MC",
+                    "Kingham TP",
+                    "Lee MK",
+                    "Lidsky ME",
+                    "Nussbaum DP",
+                    "Overman MJ",
+                    "Samra JS",
+                    "Shen R",
+                    "Sigel CS",
+                    "Soares KC",
+                    "Vollmer CM",
+                    "Wei AC",
+                    "Zani S",
+                    "Roses RE",
+                    "Gonen M",
+                    "Jarnagin WR"
+                ],
+                "Source": "JAMA surgery",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "11"
+                },
+                "Abstract": "Ampullary adenocarcinoma (AA) is characterized by clinical and genomic heterogeneity. A previously developed genomic classifier defined biologically distinct phenotypes with greater accuracy than standard histologic classification. External validation is needed before routine clinical use. To test external validity of the prognostic value of the hidden genome classifier of AA. This retrospective cohort study took place at 6 international academic institutions. Consecutive patients (n\u2009=\u2009192) who underwent curative-intent resection of histologically confirmed AA were included. The data were analyzed from January 2005 through July 2020. The multilevel meta-feature regression model previously trained on a prospectively sequenced cohort of 3411 patients (1001 pancreatic adenocarcinoma, 165 distal bile duct adenocarcinoma, and 2245 colorectal adenocarcinoma) was applied to AA sequencing data to quantify the relative proportions of parental cell of origin. Genomic classification was correlated with immunohistologic subtype (intestinal [INT] or pancreatobiliary [PB]) and with overall survival (OS), using the log-rank test and Cox proportional hazard models. Among 192 patients with AA (median age, 69.0 [IQR, 60.0-74.0] years and 134 were male [64%]), concordance between immunohistologic and genomic subtypes was 55%. Most INT subtype tumors were categorized into the colorectal genomic subtype (43 of 57 [72.9%]). Of the 114 PB subtype tumors, 29 had a pancreatic genomic profile (25.4%) and 24 had a distal bile duct genomic profile (21.1%). Whereas the standard immunohistologic subtypes were not associated with survival (log rank P\u2009=\u2009.26), predicted genomic probabilities were correlated with survival probability. Genomic scores with higher colorectal probability were associated with higher survival probability; higher pancreatic and distal bile duct probabilities were associated with lower survival probability. The AA genomic classifier is reproducible with available molecular testing in a diverse international cohort of patients and improves stratification of the divergent clinical outcomes beyond standard immunohistologic classification. These data provide a molecular classification that may be incorporated into clinical trials for prospective validation."
+            },
+            {
+                "Title": "Application and research progress of Billroth-II combined with Braun anastomosis in laparoscopic radical gastrectomy of distal gastric cancer.",
+                "PMID": "39259218",
+                "Authors": [
+                    "He X",
+                    "Li Z",
+                    "Shi W",
+                    "Liu J",
+                    "Huang S"
+                ],
+                "Source": "Panminerva medica",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "11"
+                },
+                "Abstract": "N/A"
+            },
+            {
+                "Title": "Editorial Comment: Postoperative Surveillance for Local Recurrence After Pancreatic Cancer Resection-Practices and Challenge.",
+                "PMID": "39259015",
+                "Authors": [
+                    "Zhang XM"
+                ],
+                "Source": "AJR. American journal of roentgenology",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "11"
+                },
+                "Abstract": "N/A"
+            },
+            {
+                "Title": "Editorial Comment: CT Surveillance for Local Recurrence After Pancreatic Cancer Resection-Focus on Perivascular Soft Tissue in the Surgical Bed.",
+                "PMID": "39259013",
+                "Authors": [
+                    "Zins M"
+                ],
+                "Source": "AJR. American journal of roentgenology",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "11"
+                },
+                "Abstract": "N/A"
+            }
+        ],
+        "semantic_scholar_results": null,
+        "combined_summary": "### Summary of Recent Medical Research Papers\n\n#### 1. Genome-Derived Ampullary Adenocarcinoma Classifier and Postresection Prognostication\n- **Authors**: Ecker BL et al.\n- **Source**: JAMA Surgery, September 11, 2024\n- **PMID**: 39259526\n- **Key Insights**: \n  - This study validates a genomic classifier for ampullary adenocarcinoma (AA) that distinguishes biologically distinct phenotypes more accurately than traditional histologic methods.\n  - In a cohort of 192 patients who underwent curative resection, the genomic classification showed a 55% concordance with immunohistologic subtypes.\n  - Higher colorectal genomic probabilities correlated with improved overall survival, while higher pancreatic and distal bile duct probabilities were linked to poorer outcomes.\n  - The findings suggest that this genomic classifier could enhance patient stratification in clinical trials and improve prognostic accuracy in AA management.\n\n#### 2. Application and Research Progress of Billroth-II Combined with Braun Anastomosis in Laparoscopic Radical Gastrectomy of Distal Gastric Cancer\n- **Authors**: He X et al.\n- **Source**: Panminerva Medica, September 11, 2024\n- **PMID**: 39259218\n- **Key Insights**: \n  - The paper discusses the integration of Billroth-II combined with Braun anastomosis in laparoscopic radical gastrectomy for distal gastric cancer.\n  - While specific results and conclusions are not provided in the abstract, this technique may offer advantages in postoperative recovery and gastrointestinal function.\n\n#### 3. Editorial Comment: Postoperative Surveillance for Local Recurrence After Pancreatic Cancer Resection - Practices and Challenge\n- **Author**: Zhang XM\n- **Source**: AJR. American Journal of Roentgenology, September 11, 2024\n- **PMID**: 39259015\n- **Key Insights**: \n  - This editorial addresses the challenges and practices surrounding postoperative surveillance for local recurrence in pancreatic cancer patients post-resection.\n  - Emphasizes the need for standardized protocols to improve early detection of recurrences.\n\n#### 4. Editorial Comment: CT Surveillance for Local Recurrence After Pancreatic Cancer Resection - Focus on Perivascular Soft Tissue in the Surgical Bed\n- **Author**: Zins M\n- **Source**: AJR. American Journal of Roentgenology, September 11, 2024\n- **PMID**: 39259013\n- **Key Insights**: \n  - This editorial highlights the importance of CT imaging in monitoring for local recurrence of pancreatic cancer, particularly focusing on perivascular soft tissue in the surgical bed.\n  - Suggests that careful imaging can aid in the early identification of recurrences, potentially improving patient outcomes.\n\n### Conclusion\nThese recent studies and commentaries provide valuable insights into the prognostic capabilities of genomic classifiers in ampullary adenocarcinoma, surgical techniques in gastric cancer, and the importance of imaging in postoperative surveillance for pancreatic cancer. The findings may inform clinical practices and future research directions in oncology.",
+        "status": "success",
+        "time_stamp": "2024-09-11_19-25-32"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "query": "COVID-19 treatments",
+        "pubmed_results": [
+            {
+                "Title": "How Do Virtual Communities of Practice Enhance Professional Connections and Social Capital?",
+                "PMID": "39259584",
+                "Authors": [
+                    "Becker BJ",
+                    "Jewell J",
+                    "Stejskal L",
+                    "Browning K",
+                    "Labosky B",
+                    "Berry JW"
+                ],
+                "Source": "Journal, physical therapy education",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "11"
+                },
+                "Abstract": "Communities of Practice (CoP) were created to up-skill educators and to mitigate the disruption to physical therapist assistant (PTA) education because of the COVID-19 pandemic. Understanding CoP involves considering individuals and their interactions, making this project significant for pioneering CoP among PTA educators, and using social network analysis (SNA). The research question for this mixed-methods concurrent triangulation study was \"To what extent did the network structure of virtual CoP reflect PTA educators' perceptions of participation and mentorship?\" Forty of 60 CoP members participated in this study. We analyzed 8 virtual PTA educator CoP that met over 4 months. Study participants completed a questionnaire about their experiences, engagement, and network connections. Individual and group-level friendship and mentorship network measures were studied using SNA. Qualitative responses were analyzed using the case study design approach. All results were integrated to draw out the complexity of the PTA educator CoP. There was high engagement, with 97.5% (n = 39) reporting they would participate again, and 80% (n = 32) resolved an immediate issue affecting their role. Moreover, 92.5% (n = 37) reported a perception of encouragement with the environment. Study participants reported being mentored by an average of 1.2 individuals (median 0, range 0-5) and serving as mentors to an average of 1.4 individuals (median 0, range 0-7). Two themes, unity and knowledge, emerged through the qualitative analysis. Participation by PTA educators in CoP, whether focused on administration, teaching methods, or clinical education, brings valuable outcomes. Our research supports existing literature in physical therapy education. We discovered that participant engagement, nurturing mentor relationships, encouraging knowledge sharing, and promoting a sense of unity among educators are all important factors."
+            },
+            {
+                "Title": "Molecular Modeling Studies of Similar Molecules to Selective Estrogen Receptor Degrader Elacestrant as Inhibitors of SARS-COV-2.",
+                "PMID": "39259409",
+                "Authors": [
+                    "Omotoso OD",
+                    "Joshua FO",
+                    "Oyebanmiji AK",
+                    "Ebenezer O"
+                ],
+                "Source": "Cell biochemistry and biophysics",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "11"
+                },
+                "Abstract": "Coronavirus 2019 (COVID-19) is a disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-COV-2) strain. Many anticancer compounds have been repurposed as effective anti-coronavirus agents and are currently in a clinical trial to be evaluated for treatment. Elacestrant is a novel selective estrogen receptor degrader (SERD). A fingerprint Tanimoto-based 2-dimensional similarity search was performed in the PubChem database using elacestrant as a prototype. The chemical compounds were downloaded, and virtual screening, molecular docking, and molecular dynamics were further used to identify the most active molecules in the binding pocket SARS-COV-2 main protease. Eight compounds with superior docking score, gscore, and glide binding energy were identified. Molecular dynamic simulations (MD) were performed at 100\u2009ns to remove the false interactions between the receptor and the active ligands. The results showed that all the compounds displayed good stability. Further, the ADMET results showed that compounds CID58023104 was observed to be deemed a hit compound; hence, CID58023104 and could be optimize, derivatize, and explore for further development as an anti-coronavirus agent targeting SARS-COV-2 main protease."
+            },
+            {
+                "Title": "Correction to: Impact of intensive prone position therapy on outcomes in intubated patients with ARDS related to COVID-19.",
+                "PMID": "39259402",
+                "Authors": [
+                    "Terrier CL",
+                    "Walter T",
+                    "Lebbah S",
+                    "Hajage D",
+                    "Sigaud F",
+                    "Gu\u00e9rin C",
+                    "Desmedt L",
+                    "Primmaz S",
+                    "Joussellin V",
+                    "Badia CD",
+                    "Ricard JD",
+                    "Pugin J",
+                    "Terzi N",
+                    "Unknown Author"
+                ],
+                "Source": "Annals of intensive care",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "11"
+                },
+                "Abstract": "N/A"
+            }
+        ],
+        "semantic_scholar_results": null,
+        "combined_summary": "### Summary of Recent Medical Research Papers\n\n1. **Enhancement of Professional Connections through Virtual Communities of Practice (CoP)**\n   - **Authors**: Becker BJ et al.\n   - **Source**: Journal of Physical Therapy Education\n   - **Publication Date**: September 11, 2024\n   - **Key Insights**: This study explored the impact of virtual CoP on physical therapist assistant (PTA) educators during the COVID-19 pandemic. High engagement was noted, with 97.5% of participants willing to continue, and 80% resolving immediate professional issues. The study highlighted the importance of mentorship and knowledge sharing, with participants mentoring an average of 1.4 individuals. Two main themes emerged: unity and knowledge, emphasizing the value of collaborative networks in education.\n\n2. **Molecular Modeling of Elacestrant as an Inhibitor of SARS-CoV-2**\n   - **Authors**: Omotoso OD et al.\n   - **Source**: Cell Biochemistry and Biophysics\n   - **Publication Date**: September 11, 2024\n   - **Key Insights**: This research investigated the potential of elacestrant, a selective estrogen receptor degrader, and similar compounds as inhibitors of SARS-CoV-2. Through molecular docking and dynamics simulations, eight promising compounds were identified, with CID58023104 emerging as a lead candidate for further development as an anti-coronavirus agent targeting the virus's main protease. The study suggests a novel approach to repurposing anticancer drugs for COVID-19 treatment.\n\n3. **Correction to Study on Prone Position Therapy in ARDS Patients**\n   - **Authors**: Terrier CL et al.\n   - **Source**: Annals of Intensive Care\n   - **Publication Date**: September 11, 2024\n   - **Key Insights**: This entry serves as a correction to previously published findings regarding the effects of intensive prone position therapy on intubated patients with ARDS related to COVID-19. Specific details of the original study were not provided in the abstract.\n\n### Actionable Insights:\n- **For Educators**: The findings on virtual CoP can be leveraged to enhance mentorship and collaboration among PTA educators, particularly in adapting to challenges posed by the pandemic.\n- **For Researchers**: The identification of CID58023104 as a potential anti-SARS-CoV-2 agent opens avenues for further drug development and clinical trials, particularly in the context of repurposing existing medications.\n- **For Clinicians**: Awareness of the ongoing research into prone positioning therapy for ARDS patients can inform treatment protocols, although further details from the corrected study are necessary for comprehensive understanding. \n\nThese summaries highlight significant advancements and ongoing research efforts in the medical field, particularly in education and COVID-19 treatment strategies.",
+        "status": "success"
+    }
+]
