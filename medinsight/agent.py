@@ -1,16 +1,16 @@
-import time
-import os
 import json
-from typing import Dict, List, Optional
+import os
+import time
+from typing import Dict, List, Optional, Any
 
 import requests
+from dotenv import load_dotenv
 from loguru import logger
 from pydantic import BaseModel, Field
-from swarms import OpenAIChat
-from swarms import Agent
-from dotenv import load_dotenv
+from swarm_models import OpenAIFunctionCaller
+from swarms import Agent, OpenAIChat
+
 from medinsight.pub_med import query_pubmed_with_abstract
-from swarms import OpenAIFunctionCaller
 
 load_dotenv()
 
@@ -18,7 +18,6 @@ load_dotenv()
 logger.add("medinsight_pro_logs.log", rotation="500 MB")
 openai_api_key = os.getenv("OPENAI_API_KEY")
 semantic_scholar_api_key = os.getenv("SEMANTIC_SCHOLAR_API_KEY")
-pubmed_api_key = os.getenv("PUBMED_API_KEY")
 time_stamp = time.strftime("%Y-%m-%d_%H-%M-%S")
 
 
@@ -27,7 +26,7 @@ class MedInsightMetadata(BaseModel):
     task: str = Field(
         ..., description="The task or query sent to the agent"
     )
-    query_agent_analysis: Dict[str, str]
+    query_agent_analysis: Dict[str, Any]
     pubmed_results: Optional[List[Dict]] = Field(
         None, description="Results fetched from PubMed"
     )
@@ -44,15 +43,28 @@ class MedInsightMetadata(BaseModel):
     time_stamp: str = Field(
         time_stamp, description="Timestamp of the agent task"
     )
-    loop: int = Field(
-        0,
-    )
 
 
 class MedInsightMetadataOutput(BaseModel):
-    max_loops: int
-    logs: List[MedInsightMetadata] = None
+    task: str = Field(..., description=None)
+    logs: List[MedInsightMetadata] = Field(None, description=None)
     time_stamp: str = Field(time_stamp, description=None)
+
+
+
+class PubMedQuery(BaseModel):
+    analysis_of_request: str = Field(
+        ...,
+        description="Analyze the nature of the request, identifying the specific disease, virus, or condition. Consider the context of the inquiry, including symptoms, demographics, and relevant medical history to provide a comprehensive understanding.",
+    )
+    pubmed_query: str = Field(
+        ...,
+        description="Formulate a precise PubMed query based on the analysis of the request. Ensure the query includes the disease or condition name, relevant keywords, and MeSH terms. Incorporate Boolean operators to enhance search accuracy and retrieve the most pertinent research articles, reviews, and clinical trials.",
+    )
+    max_articles: int = Field(
+        ...,
+        description=None
+    )
 
 
 # Create an instance of the OpenAIChat class with GPT-4
@@ -90,19 +102,13 @@ agent = Agent(
 )
 
 
-class PubMedQuery(BaseModel):
-    analysis_of_request: str = Field(
-        ...,
-        description="Analyze the nature of the request, identifying the specific disease, virus, or condition. Consider the context of the inquiry, including symptoms, demographics, and relevant medical history to provide a comprehensive understanding.",
-    )
-    pubmed_query: str = Field(
-        ...,
-        description="Formulate a precise PubMed query based on the analysis of the request. Ensure the query includes the disease or condition name, relevant keywords, and MeSH terms. Incorporate Boolean operators to enhance search accuracy and retrieve the most pertinent research articles, reviews, and clinical trials.",
-    )
-
-
 # Define the MedInsightPro class with customizable options and logging
 class MedInsightPro:
+    """
+    This class is used to initialize and run the MedInsight Pro agent.
+    It allows for customization of various options and provides logging functionality.
+    """
+
     def __init__(
         self,
         semantic_scholar_api_key: str = None,
@@ -112,6 +118,9 @@ class MedInsightPro:
         max_loops: int = None,
         return_json: bool = False,
     ):
+        """
+        Initialize the MedInsight Pro agent with the provided parameters.
+        """
         self.semantic_scholar_api_key = semantic_scholar_api_key
         self.system_prompt = system_prompt
         self.agent = agent
@@ -131,12 +140,16 @@ class MedInsightPro:
         self.metadata_log = MedInsightMetadataOutput(
             max_loops=max_loops,
             logs=[],
+            task=""
         )
 
     # Function to access Semantic Scholar data
     def fetch_semantic_scholar_data(
         self, query: str, max_results: int = 10
     ):
+        """
+        Fetch data from Semantic Scholar for the provided query.
+        """
         logger.info(
             f"Fetching data from Semantic Scholar for query: {query}"
         )
@@ -148,94 +161,81 @@ class MedInsightPro:
 
         # Method to run the agent with a given task
 
-    def run(self, task: str, img: str = None, *args, **kwargs):
+    def run(self, task: str, *args, **kwargs):
         logger.info(f"Running MedInsightPro agent for task: {task}")
+        status = "success"
+        # pubmed_data, semantic_scholar_data = {}, {}
         combined_summary = ""
-
-        # Run the structured output agent to get the initial query
+        
         analysis = self.precise_query_agent.run(task)
-        pubmed_query = analysis["pubmed_query"]
-        responses = []
+        logger.info(f"Pubmed query: {analysis}")
+        
+        query = analysis["pubmed_query"]
+        # num_articles = int(analysis["max_articles"])
 
-        # Initial response (the pubmed query)
-        responses.append(pubmed_query)
+        try:
+            # Fetch data from PubMed
+            pubmed_data, pubmed_dict = query_pubmed_with_abstract(
+                query=query, max_articles=self.max_articles, *args, **kwargs
+            )
+            print(pubmed_dict)
+            logger.info(f"PubMed data: {pubmed_data}")
 
-        loop = 0
-
-        for loop in range(self.max_loops):
-            try:
-                logger.info(
-                    f"Running loop {loop + 1}/{self.max_loops}"
+            # Fetch data from Semantic Scholar
+            if self.semantic_scholar_api_key:
+                semantic_scholar_data = (
+                    self.fetch_semantic_scholar_data(task)
                 )
 
-                # Fetch data from PubMed based on the query
-                pubmed_data, pubmed_dict = query_pubmed_with_abstract(
-                    query=pubmed_query,
-                    max_articles=self.max_articles,
-                    *args,
-                    **kwargs,
-                )
-                logger.info(f"PubMed data: {pubmed_data}")
-                responses.append(pubmed_data)
+            # Summarize data with GPT-4
+            # combined_summary_input = f"PubMed Data: {pubmed_data}\nSemantic Scholar Data: {semantic_scholar_data}"
+            if pubmed_data:
+                combined_summary_input = pubmed_data
+            else:
+                combined_summary_input = semantic_scholar_data
 
-                # Fetch data from Semantic Scholar, if available
-                if self.semantic_scholar_api_key:
-                    semantic_scholar_data = (
-                        self.fetch_semantic_scholar_data(task)
-                    )
-                    responses.append(semantic_scholar_data)
+            combined_summary = self.agent.run(combined_summary_input)
+            logger.info(f"Summarization completed for task: {task}")
+        except Exception as e:
+            logger.error(
+                f"Error during processing task: {task}. Error: {e}"
+            )
+            status = "failure"
+            raise e
 
-                # Summarize data with GPT-4 using the agent
-                if pubmed_data:
-                    combined_summary_input = pubmed_data
-                else:
-                    combined_summary_input = semantic_scholar_data
+        # Log metadata
+        metadata = MedInsightMetadata(
+            task = task,
+            query_agent_analysis=analysis,
+            pubmed_results=pubmed_dict,
+            combined_summary=combined_summary,
+            status="success",
+            time_stamp=time_stamp
+        )
+        self.metadata_log.logs.append(metadata)
 
-                # Feed the result back into the agent as input for the next loop
-                combined_summary = self.agent.run(
-                    combined_summary_input, img, *args, **kwargs
-                )
-                responses.append(combined_summary)
-                logger.info(
-                    f"Summarization completed for loop {loop + 1}"
-                )
-
-                # Update the query for the next loop
-                pubmed_query = combined_summary  # Feed the output back as input for the next loop
-
-                # Log metadata for each loop iteration
-                metadata = MedInsightMetadata(
-                    task=task,
-                    query_agent_analysis=analysis,
-                    pubmed_results=pubmed_dict,
-                    combined_summary=combined_summary,
-                    status="success",
-                    loop_responses=responses,  # Track all loop responses
-                    time_stamp=time.strftime("%Y-%m-%d_%H-%M-%S"),
-                )
-                self.metadata_log.logs.append(metadata)
-
-            except Exception as e:
-                logger.error(
-                    f"Error during loop {loop + 1}. Error: {e}"
-                )
-                raise e
-
-        # Save metadata log to a JSON file
+        # Save log to a JSON file
         self.save_metadata_log()
 
-        # Return the final result in the desired format (JSON or summary)
+        # return combined_summary
+        
         if self.return_json:
-            return self.metadata_log.model_dump_json(indent=2)
+            return self.metadata_log.model_dump_json()
+        
         else:
             return combined_summary
-
+    
     # Method to save the metadata log to a JSON file
     def save_metadata_log(self):
+        """
+        Save the metadata log to a JSON file.
+        """
         import time
 
         time_stamp = time.strftime("%Y-%m-%d_%H-%M-%S")
         log_file = f"medinsight_pro_history_time:{time_stamp}.json"
+
         with open(log_file, "w") as file:
-            json.dump(self.metadata_log.model_dump, file)
+            json.dump(self.metadata_log.model_dump(), file)
+
         logger.info(f"Metadata log saved to {log_file}")
