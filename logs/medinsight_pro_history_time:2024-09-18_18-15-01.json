@@ -1,0 +1,281 @@
+[
+    {
+        "task": "Long COVID-19 Treatments ",
+        "query_agent_analysis": {
+            "analysis_of_request": "The request is focused on finding information about treatments specifically for Long COVID-19, which is a condition characterized by persistent symptoms following the acute phase of COVID-19 infection. The query should target studies, reviews, and clinical trials related to therapeutic approaches, management strategies, and interventions for Long COVID-19.",
+            "pubmed_query": "\"Long COVID-19\" AND (treatment OR management OR therapy OR intervention)"
+        },
+        "pubmed_results": [
+            {
+                "Title": "Global Challenges After a Global Challenge: Lessons Learned from the COVID-19 Pandemic.",
+                "PMID": "39283418",
+                "Authors": [
+                    "Yazdanpanah N",
+                    "Sedikides C",
+                    "Ochs HD",
+                    "Camargo CA",
+                    "Darmstadt GL",
+                    "Cerda A",
+                    "Cauda V",
+                    "Peters GJ",
+                    "Sellke F",
+                    "Wong ND",
+                    "Comini E",
+                    "Jimeno AR",
+                    "Glover V",
+                    "Hatziargyriou N",
+                    "Vincenot CE",
+                    "Bordas SPA",
+                    "Rao IM",
+                    "Abolhassani H",
+                    "Gharehpetian GB",
+                    "Weiskirchen R",
+                    "Gupta M",
+                    "Chandel SS",
+                    "Olusanya BO",
+                    "Cheson B",
+                    "Pomponio A",
+                    "Tanzer M",
+                    "Myles PS",
+                    "Ma WX",
+                    "Bella F",
+                    "Ghavami S",
+                    "Moein Moghimi S",
+                    "Pratico D",
+                    "Hernandez AM",
+                    "Martinez-Urbistondo M",
+                    "Urbistondo DM",
+                    "Fereshtehnejad SM",
+                    "Ali I",
+                    "Kimura S",
+                    "Wallace Hayes A",
+                    "Cai W",
+                    "Ernest CKJ",
+                    "Thomas S",
+                    "Rahimi K",
+                    "Sorooshian A",
+                    "Schreiber M",
+                    "Kato K",
+                    "Luong JHT",
+                    "Pluchino S",
+                    "Lozano AM",
+                    "Seymour JF",
+                    "Kosik KS",
+                    "Hofmann SG",
+                    "McIntyre RS",
+                    "Perc M",
+                    "Leemans A",
+                    "Klein RS",
+                    "Ogino S",
+                    "Wlezien C",
+                    "Perry G",
+                    "Nieto JJ",
+                    "Levin L",
+                    "Klionsky DJ",
+                    "Mobasher B",
+                    "Dorigo T",
+                    "Rezaei N",
+                    "Unknown Author"
+                ],
+                "Source": "Advances in experimental medicine and biology",
+                "PublicationDate": {
+                    "Year": "2024"
+                },
+                "Abstract": "Coronavirus disease 2019 (COVID-19) has affected not only individual lives but also the world and global systems, both natural and human-made. Besides millions of deaths and environmental challenges, the rapid spread of the infection and its very high socioeconomic impact have affected healthcare, economic status and wealth, and mental health across the globe. To better appreciate the pandemic's influence, multidisciplinary and interdisciplinary approaches are needed. In this chapter, world-leading scientists from different backgrounds share collectively their views about the pandemic's footprint and discuss challenges that face the international community."
+            },
+            {
+                "Title": "Cardiac remodeling and inflammation detected by magnetic resonance imaging in COVID-19 survivors.",
+                "PMID": "39280695",
+                "Authors": [
+                    "Schaustz EB",
+                    "Secco JCP",
+                    "Barroso JM",
+                    "Ferreira JR",
+                    "Tortelly MB",
+                    "Pimentel AL",
+                    "Figueiredo ACBS",
+                    "Albuquerque DC",
+                    "Sales ARK",
+                    "Rosado de-Castro PH",
+                    "Pinheiro MVT",
+                    "Souza OF",
+                    "Medei E",
+                    "Luiz RR",
+                    "Silvestre-Sousa A",
+                    "Camargo GC",
+                    "Moll-Bernardes R"
+                ],
+                "Source": "International journal of cardiology. Heart & vasculature",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Oct"
+                },
+                "Abstract": "Concerns have been raised about cardiac inflammation in patients with long COVID-19, particularly those with myocardial injury during the acute phase of the disease. This study was conducted to examine myopericardial involvement, detected by cardiac magnetic resonance (CMR) imaging in patients hospitalized for COVID-19. Adult patients hospitalized with COVID-19 who presented myocardial injury or increased D-dimers were enrolled in this prospective study. All patients were invited to undergo CMR imaging examination after discharge. During follow-up, patients with nonischemic myocardial or pericardial involvement detected on the first CMR imaging examination underwent second examinations. CMR imaging findings were compared with those of a control group of healthy patients with no comorbidity. Of 180 included patients, 53 underwent CMR imaging examination. The mean age was 58.4\u00a0\u00b1\u00a018.3\u00a0years, and 73.6\u00a0% were male. Myocardial and pericardial LGE was reported in 43.4\u00a0% and 35.8\u00a0% of patients, respectively. Nonischemic myocardial or pericardial involvement was reported in 26 (49.1\u00a0%) patients. The prevalence of pericardial LGE was associated inversely with the interval between hospital discharge and CMR. COVID-19 survivors had higher end-systolic volume indices (ESVis) and lower left-ventricular ejection fractions than did healthy controls. Seventeen patients underwent follow-up CMR imaging; the end-diastolic volume index, ESVi, and prevalence of pericardial LGE, but not that of nonischemic LGE, were reduced. Among COVID-19 survivors with myocardial injury during the acute phase of the disease, the incidences of nonischemic myocardial and pericardial LGE and CMR imaging-detected signs of cardiac remodeling, partially reversed during follow-up, were high."
+            },
+            {
+                "Title": "Novel Clinical, Immunological, and Metabolic Features Associated with Persistent Post-Acute COVID-19 Syndrome.",
+                "PMID": "39273608",
+                "Authors": [
+                    "Santana-de Anda K",
+                    "Torres-Ruiz J",
+                    "Mej\u00eda-Dom\u00ednguez NR",
+                    "Alcal\u00e1-Carmona B",
+                    "Maravillas-Montero JL",
+                    "P\u00e1ez-Franco JC",
+                    "Vargas-Castro AS",
+                    "Lira-Luna J",
+                    "Camacho-Mor\u00e1n EA",
+                    "Juarez-Vega G",
+                    "Meza-S\u00e1nchez D",
+                    "N\u00fa\u00f1ez-\u00c1lvarez C",
+                    "Rull-Gabayet M",
+                    "G\u00f3mez-Mart\u00edn D"
+                ],
+                "Source": "International journal of molecular sciences",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "06"
+                },
+                "Abstract": "The coronavirus disease 2019 (COVID-19) survivors are frequently observed to present persistent symptoms constituting what has been called \"post-acute COVID-19 syndrome\" (PACS) or \"long COVID-19\". Some clinical risk factors have been identified to be associated with PACS development; however, specific mechanisms responsible for PACS pathology remain unknown. This study investigates clinical, immunological, and metabolomic risk factors associated with post-acute COVID-19 syndrome (PACS) in 51 patients, assessed 7-19 months after acute infection. Among the participants, 62.7% were male and 37.2% were female, with an average age of 47.8 years. At the follow-up, 37.2% met the criteria for PACS, revealing significant differences in immunological and metabolomic profiles at the time of acute infection. Patients with PACS were characterized by elevated levels of mature low-density granulocytes (LDGs), interleukin-8 (IL-8), pyruvate, pseudouridine, and cystine. Baseline multivariate analysis showed increased pyruvate and decreased alpha tocopherol levels. At follow-up, there was a decrease in absolute B lymphocytes and an increase in non-classical monocytes and 3-hydroxyisovaleric acid levels. These findings suggest that specific immunological and metabolomic markers during acute infection can help identify patients at higher risk of developing persistent PACS."
+            },
+            {
+                "Title": "Post-Acute Sequelae of Covid-19: A System-wise Approach on the Effects of Long-Covid-19.",
+                "PMID": "39268246",
+                "Authors": [
+                    "Umakanthan S",
+                    "Katwaroo AR",
+                    "Bukelo M",
+                    "Bg S",
+                    "Boralingaiah P",
+                    "Ranade AV",
+                    "Rangan P",
+                    "Shashidhar S",
+                    "Kini JR",
+                    "Kini G"
+                ],
+                "Source": "American journal of medicine open",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Dec"
+                },
+                "Abstract": "The SARS-CoV-2 virus responsible for the COVID-19 pandemic has profoundly impacted global health, economics, and society. This review seeks to encompass an overview of current knowledge on COVID-19, including its transmission, pathogenesis, and clinical presentation related to various systems within the human body. COVID-19 is a highly contagious illness that has rapidly spread worldwide. As of August 4, 2023, the WHO reported over 570 million confirmed cases of COVID-19 and over 6.3 million deaths. Although the virus is most common in adults, children can also be infected. Respiratory droplets that are produced when an infected person coughs or sneezes are the primary transmission mode for COVID-19. Additionally, the virus can be disseminated via contact with contaminated surfaces or objects, as it can remain viable for several hours or days. SARS-CoV-2 is a respiratory virus that enters cells by bonding with the angiotensin-converting enzyme 2 (ACE2) receptor. Once inside the cell, the virus replicates and produces new particles that can infect other cells. Interestingly, the effects of post-acute sequelae of SARS-CoV-2 infection (PASC) encompass more than just respiratory system. The findings presented in the data suggest that PASC significantly impacts multiple organs and their respective physiological processes. In light of these observations, we aim to provide a detailed discussion of the relevant findings in this paper. Through our review, we hope to provide healthcare professionals with a deeper understanding of the effects of PASC on the human body, which could ultimately lead to improved patient outcomes and treatment strategies."
+            },
+            {
+                "Title": "The Effectiveness and Safety of Stellate Ganglion Block in the Treatment of Symptoms from Long COVID-19: A Pilot Study.",
+                "PMID": "39263197",
+                "Authors": [
+                    "Levey AO",
+                    "Chen GH",
+                    "Ngyuen A",
+                    "Ostrosky-Zeichner L",
+                    "Hasoon J",
+                    "Saroukhani S",
+                    "Lin M"
+                ],
+                "Source": "Psychopharmacology bulletin",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Aug",
+                    "Day": "19"
+                },
+                "Abstract": "Pilot study to evaluate the safety and effectiveness of stellate ganglion blocks in the treatment of symptoms related to long COVID infection. A total of 17 patients who underwent stellate ganglion block for the treatment of their long COVID symptoms were included. COMPASS-31, GAD-7, PCL-5, and Fatigue Severity Score (FSS) pre and post intervention surveys and data on baseline heartrate and post- block heart rate recorded in the EMR. A total of 94% of patients reported moderate-to-severe autonomic dysfunction pre-procedure as measured by COMPASS-31. All patients reported some degree of symptomatic improvement from the block. Specifically, patients had significantly lower FSS scores (<i>P</i> = 0.002) and heart rate post-procedure (<i>P</i> = 0.008). Although the decrease in PCL-5 scores after the procedure was clinically meaningful, this change was not statistically significant (<i>P</i> = 0.159). No significant difference was found in pre and post procedure GAD-7 scores (<i>P</i> = 0.101). Stellate ganglion block is a safe, low-risk, minimally invasive, and effective procedure in the treatment of symptoms for long COVID. It should be evaluated as an adjunctive treatment of select patients in this population."
+            },
+            {
+                "Title": "Main Predictors of Decreasing in Quality of Life in Patients With Post-COVID-19: A Cross-Sectional Study.",
+                "PMID": "39255548",
+                "Authors": [
+                    "C\u00e1zares-Lara JO",
+                    "Ordinola-Navarro A",
+                    "Carmona-Aguilera Z",
+                    "Benitez-Altamirano GM",
+                    "Beltran-Ontiveros LD",
+                    "Ramirez-Hinojosa JP",
+                    "Lopez-Vejar C",
+                    "Lopez-Luis BA"
+                ],
+                "Source": "Value in health regional issues",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "09"
+                },
+                "Abstract": "We aimed to assess physical and psychosomatic manifestations of patients with long COVID and their association with a decreased patient's quality of life (QOL) or different times elapsed since the COVID-19 diagnosis. This is a cross-sectional study. We retrospectively collected the clinical characteristics of adult patients who had tested positive for SARS-CoV-2 and had symptoms at least as early as 4 weeks after COVID-19 in M\u00e9xico City between April 2020 and February 2021. A total of 179 were included. They answered questions to define chronic symptoms. The Sniffin' Sticks Screening 12 test olfactory evaluation was performed. The diminish of QOL was defined by \u226510 points in the EuroQol visual analog scale between pre- and post-COVID-19, and each dimension of EQ-5D-5L test was evaluated. Chi-square test, Fisher's exact test, Student t test, Wilcoxon rank-sum, and signed-rank test were used as required. A backward stepwise logistic regression analysis determined the factors associated with a decrease in QOL. All analyses were performed using R software version 3.6.3 (R Foundation). In the multivariable analysis, post-COVID-19 pain/discomfort (adjusted odds ratio [aOR] 2.5 [1.66-9.68]; P\u00a0= .01), anxiety/depression (aOR 13 [1.44-17.23]; P\u00a0= .03), and persistence of \u22653 symptoms (aOR 2.6 [0.96-7.47]; P\u00a0= .05) remained statistically significant associated with decreased QOL. Patients with long COVID-19 have decreased QOL mainly associated with pain/discomfort, anxiety/depression, and \u22653 persistent symptoms. Our findings enhanced the notion of a strong psychosomatic factors involved with long COVID-19. Therefore, these patients might benefit from neuropsychological rehabilitation, although the effect of such interventions should be evaluated."
+            },
+            {
+                "Title": "A nonadjuvanted HLA-restricted peptide vaccine induced both T and B cell immunity against SARS-CoV-2 spike protein.",
+                "PMID": "39242614",
+                "Authors": [
+                    "Lee YR",
+                    "Liou CW",
+                    "Liu IH",
+                    "Chang JM"
+                ],
+                "Source": "Scientific reports",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "04"
+                },
+                "Abstract": "During COVID-19 pandemic, cases of postvaccination infections and restored SARS-CoV-2 virus have increased after full vaccination, which might be contributed to by immune surveillance escape or virus rebound. Here, artificial linear 9-mer human leucocyte antigen (HLA)-restricted UC peptides were designed based on the well-conserved S2 region of the SARS-CoV-2 spike protein regardless of rapid mutation and glycosylation hindrance. The UC peptides were characterized for its effect on immune molecules and cells by HLA-tetramer refolding assay for HLA-binding ability, by HLA-tetramer specific T cell assay for engaged cytotoxic T lymphocytes (CTLs) involvement, by HLA-dextramer T cell assay for B cell activation, by intracellular cytokine release assay for polarization of immune response, Th1 or Th2. The specific lysis activity assay of T cells was performed for direct activation of cytotoxic T lymphocytes by UC peptides. Mice were immunized for immunogenicity of UC peptides in vivo and immunized sera was assay for complement cytotoxicity assay. Results appeared that through the engagement of UC peptides and immune molecules, HLA-I and II, that CTLs elicited cytotoxic activity by recognizing SARS-CoV-2 spike-bearing cells and preferably secreting Th1 cytokines. The UC peptides also showed immunogenicity and generated a specific antibody in mice by both intramuscular injection and oral delivery without adjuvant formulation. In conclusion, a T-cell vaccine could provide long-lasting protection against SARS-CoV-2 either during reinfection or during SARS-CoV-2 rebound. Due to its ability to eradicate SARS-CoV-2 virus-infected cells, a COVID-19 T-cell vaccine might provide a solution to lower COVID-19 severity and long COVID-19."
+            },
+            {
+                "Title": "Sex-related differences concerning the profile and evolution of cardiovascular complications in patients with post-acute COVID-19 syndrome.",
+                "PMID": "39241905",
+                "Authors": [
+                    "Tudoran C",
+                    "Tudoran M",
+                    "Abu-Awwad A",
+                    "Abu-Awwad SA",
+                    "Faur C",
+                    "Crisan-Vida M",
+                    "Stoicu-Tivadar L",
+                    "Voi\u0163\u0103-Mekere\u015f F"
+                ],
+                "Source": "Life sciences",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Nov",
+                    "Day": "01"
+                },
+                "Abstract": "During the COVID-19 pandemic sex-related differences concerning the spectrum of cardiovascular complications have been observed in the acute infection, and during recovery. This study aims to emphasize sex-related disparities regarding left ventricular systolic function (LVSF), right ventricular function (RVF), diastolic dysfunction (DD), and pericardial pathologies during the post-COVID-19 syndrome. 274 patients with post-acute COVID-19 syndrome, 127 men and 147 women, aged under 55, were evaluated within 90\u00a0days after the acute illness and followed at 3 and 6\u00a0months. Based on detailed transthoracic echocardiography (TTE), we identified significantly more frequently (p\u02c20.001) altered LVSF in men, while in women impaired RVF, and DD were significantly more common (p\u02c20.001). Pericardial impairment did not seem to be influenced by gender. The TTE parameters characterizing these patterns were correlated with the severity of the initial infection and the time elapsed since and alleviated in time. The multivariate regression analysis confirmed these sex-related associations and their impact on patients' functional status. Male patients had a higher tendency to develop altered LVSF, while female subjects had more frequently impaired RVF and DD. These abnormalities alleviated in time and exerted a significant influence on patients' functional status."
+            },
+            {
+                "Title": "Sleep disorder syndromes of post-acute sequelae of SARS-CoV-2 (PASC) / Long Covid.",
+                "PMID": "39236463",
+                "Authors": [
+                    "Coelho FMS",
+                    "Czuma R",
+                    "Ticotsky A",
+                    "Maley J",
+                    "Mullington JM",
+                    "Thomas RJ"
+                ],
+                "Source": "Sleep medicine",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Nov"
+                },
+                "Abstract": "COVID-19 infection has resulted in a high prevalence of a post-infectious syndrome, known as post-acute sequelae of SARS-CoV-2 (PASC) or \"Long COVID\". PASC is a heterogeneous disease with a high prevalence of sleep disturbances, varying from an insomnia disorder to excessive daytime sleepiness. Patients seen in the Covid Survivorship Program at the Beth Israel Deaconess Medical Center Boston, USA, were screened for sleep disorders as part of a comprehensive multi-system evaluation. Those who screened positive were referred for a comprehensive sleep evaluation in a dedicated COVID-19-Sleep clinic, followed by diagnostic sleep testing and treatment. This report summarizes patients who completed an American Academy of Sleep Medicine (AASM) accredited facility-based diagnostic evaluation. International Classification of Sleep Disorders 3rd Edition-Revised criteria were met for all diagnoses. In 42 patients with PASC, five categories of sleep disorder syndromes were observed following a sleep clinic evaluation, including obstructive sleep apnea, chronic insomnia disorder, primary hypersomnia, REM behavior disorder (RBD), and new onset circadian phase delay. Seven patients met criteria for idiopathic hypersomnia, and two had narcolepsy type 2. RBD patients were infected in three different waves; circadian disturbance patients were all infected in the winter wave of 2020/21, and the primary hypersomnolence group occurred during all waves, predominantly the initial wave of 2020. A peculiar form of insomnia was a persistent loss of sleep regularity. Specific sleep symptoms/syndromes are reported in this select group of patients with PASC/Long Covid. As new onset sleep complaints are prevalent in PASC, we recommend a complete clinical and investigative sleep evaluation for persistent severe sleep symptoms following COVID-19 infection."
+            },
+            {
+                "Title": "Coronavirus Disease 2019 in Kidney Transplantation - A 2024 Update.",
+                "PMID": "39232616",
+                "Authors": [
+                    "Abu Jawdeh BG",
+                    "Vikram HR"
+                ],
+                "Source": "Advances in kidney disease and health",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "The coronavirus disease 2019 (COVID-19) pandemic, caused by the severe acute respiratory syndrome coronavirus 2 has led to the death of about 7 million people worldwide. When infected, older individuals and those with diabetes, hypertension, cardiovascular disease, and compromised immune system are at higher risk for unfavorable outcomes. These comorbidities are prevalent in kidney transplant candidates and recipients making them inherently vulnerable to severe acute respiratory syndrome coronavirus 2 infection, hence, the significant burden the pandemic has exerted on kidney transplant programs. With the swift discovery and wide-scale availability of vaccines and therapeutics against severe acute respiratory syndrome coronavirus 2, the pandemic is currently behind us allowing transplant programs to relieve their restrictions and resume normal pre-COVID-19 operations. In the aftermath of the pandemic, we discuss the implications for immunosuppression and vaccination, COVID-19-induced kidney injury phenotypes and long COVID-19 symptoms. We also discuss some of the operational aspects the pandemic brought about - mainly the utilization of telemedicine - that are now here to stay."
+            }
+        ],
+        "semantic_scholar_results": null,
+        "combined_summary": "### Summary of Recent Medical Research on COVID-19 and Its Aftermath\n\n1. **Global Challenges Post-COVID-19**  \n   - **Reference**: Yazdanpanah N et al. (2024)  \n   - **Insight**: This chapter discusses the extensive impact of COVID-19 on global health systems, economies, and mental health. It emphasizes the need for multidisciplinary approaches to address the pandemic's long-term effects.\n\n2. **Cardiac Inflammation in COVID-19 Survivors**  \n   - **Reference**: Schaustz EB et al. (2024)  \n   - **Findings**: A study using cardiac magnetic resonance imaging (CMR) found high rates of myocardial and pericardial involvement in COVID-19 survivors, particularly those with prior myocardial injury. Follow-up imaging showed some reversal of cardiac remodeling, indicating the need for ongoing cardiac assessment in this population.\n\n3. **Post-Acute COVID-19 Syndrome (PACS)**  \n   - **Reference**: Santana-de Anda K et al. (2024)  \n   - **Highlights**: This research identifies clinical, immunological, and metabolomic markers associated with PACS. Key findings include elevated levels of interleukin-8 and specific metabolites in patients with persistent symptoms, suggesting potential biomarkers for risk stratification.\n\n4. **Systemic Effects of Long COVID**  \n   - **Reference**: Umakanthan S et al. (2024)  \n   - **Overview**: This review outlines the diverse systemic effects of post-acute sequelae of SARS-CoV-2 infection (PASC), highlighting the need for comprehensive understanding and management strategies across multiple organ systems.\n\n5. **Stellate Ganglion Block for Long COVID Symptoms**  \n   - **Reference**: Levey AO et al. (2024)  \n   - **Conclusion**: A pilot study indicates that stellate ganglion blocks may effectively alleviate symptoms of long COVID, with significant improvements in autonomic dysfunction and fatigue severity. Further evaluation is warranted for broader application.\n\n6. **Quality of Life in Post-COVID Patients**  \n   - **Reference**: C\u00e1zares-Lara JO et al. (2024)  \n   - **Results**: This study identifies pain, anxiety, and the persistence of multiple symptoms as significant predictors of decreased quality of life in long COVID patients, suggesting the need for targeted psychosomatic interventions.\n\n7. **T-cell Vaccine Against SARS-CoV-2**  \n   - **Reference**: Lee YR et al. (2024)  \n   - **Innovation**: A nonadjuvanted peptide vaccine demonstrated the ability to induce both T and B cell immunity against the SARS-CoV-2 spike protein, potentially offering long-lasting protection and addressing post-vaccination infections.\n\n8. **Sex Differences in Cardiovascular Complications**  \n   - **Reference**: Tudoran C et al. (2024)  \n   - **Findings**: This study reveals significant sex-related differences in cardiovascular complications post-COVID-19, with men more likely to experience left ventricular dysfunction and women more prone to right ventricular dysfunction and diastolic issues.\n\n9. **Sleep Disorders in Long COVID**  \n   - **Reference**: Coelho FMS et al. (2024)  \n   - **Insight**: A high prevalence of sleep disorders was identified among patients with PASC, necessitating comprehensive sleep evaluations and tailored treatment strategies for those experiencing persistent sleep disturbances.\n\n10. **COVID-19 in Kidney Transplantation**  \n    - **Reference**: Abu Jawdeh BG, Vikram HR (2024)  \n    - **Update**: The review discusses the implications of COVID-19 on kidney transplant programs, including vaccination strategies and the integration of telemedicine in post-pandemic care.\n\n### Conclusion\nThese studies collectively highlight the multifaceted impact of COVID-19, emphasizing the importance of ongoing research and tailored treatment strategies for affected populations. Key areas of focus include cardiac health, immune response, quality of life, and the management of long-term sequelae.",
+        "status": "success",
+        "time_stamp": "2024-09-18_18-15-01"
+    }
+]

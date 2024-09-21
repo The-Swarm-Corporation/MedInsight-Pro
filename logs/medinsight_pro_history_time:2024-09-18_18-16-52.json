@@ -1,0 +1,192 @@
+[
+    {
+        "task": "Long COVID-19 Treatments ",
+        "query_agent_analysis": {
+            "analysis_of_request": "The request is focused on finding research articles, reviews, and clinical trials related to treatments for Long COVID-19, also known as post-acute sequelae of SARS-CoV-2 infection (PASC). Long COVID-19 is a condition characterized by persistent symptoms following the acute phase of COVID-19. The query should include terms related to treatments, therapies, and management strategies specifically for Long COVID-19, as well as the condition's formal medical terminology.",
+            "pubmed_query": "(\"Long COVID-19\"[MeSH Terms] OR \"post-acute sequelae of SARS-CoV-2 infection\"[All Fields] OR \"PASC\"[All Fields]) AND (\"treatment\"[MeSH Terms] OR \"therapy\"[All Fields] OR \"management\"[All Fields]) AND (\"clinical trial\"[Publication Type] OR \"review\"[Publication Type] OR \"research article\"[Publication Type])"
+        },
+        "pubmed_results": [
+            {
+                "Title": "Long COVID or Post-Acute Sequelae of SARS-CoV-2 Infection (PASC) and the Urgent Need to Identify Diagnostic Biomarkers and Risk Factors.",
+                "PMID": "39289865",
+                "Authors": [
+                    "Parums DV"
+                ],
+                "Source": "Medical science monitor : international medical journal of experimental and clinical research",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "18"
+                },
+                "Abstract": "Long COVID, or post-acute sequelae of SARS-CoV-2 infection (PASC), also known as post-COVID-19 condition or post-COVID syndrome, can affect anyone infected with SARS-CoV-2, regardless of age or the severity of the initial symptoms of COVID-19. Long COVID/PASC is the continuation or development of new symptoms after three months from the initial SARS-CoV-2 infection, which lasts for at least two months and has no other identifiable cause. Long COVID/PASC occurs in 10-20% of patients infected with SARS-CoV-2. The most common symptoms include fatigue, cognitive impairment (brain fog), and shortness of breath. However, more than 200 symptoms have been reported. No phenotypic or diagnostic biomarkers have been identified for developing long COVID/PASC, which is a multisystem disorder that can present with isolated or combined respiratory, hematological, immunological, cardiovascular, and neuropsychiatric symptoms. There is no cure. Therefore, individualized patient management requires a multidisciplinary clinical approach. Because millions of people have had and continue to have COVID-19, even in the era of vaccination and antiviral therapies, long COVID/PASC is now and will increasingly become a health and economic burden that the world must prepare for. Almost five years from the beginning of the COVID-19 pandemic, this article aims to review what is currently known about long COVID/PASC, the anticipated increasing global health burden, and why there is still an urgent need to identify diagnostic biomarkers and risk factors to improve prevention and treatment."
+            },
+            {
+                "Title": "The Long-Term Cardiovascular Impact of COVID-19: Pathophysiology, Clinical Manifestations, and Management.",
+                "PMID": "39258051",
+                "Authors": [
+                    "Mukkawar RV",
+                    "Reddy H",
+                    "Rathod N",
+                    "Kumar S",
+                    "Acharya S"
+                ],
+                "Source": "Cureus",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Aug"
+                },
+                "Abstract": "The COVID-19 pandemic, caused by the novel coronavirus SARS-CoV-2, has resulted in a substantial global health crisis, with effects extending far beyond the acute phase of infection. This review aims to provide a comprehensive overview of the long-term cardiovascular impact of COVID-19, focusing on the pathophysiology, clinical manifestations, diagnostic approaches, management strategies, and future research directions. SARS-CoV-2 induces cardiovascular complications through mechanisms such as inflammation, endothelial dysfunction, and direct myocardial injury, leading to conditions like myocarditis, heart failure, arrhythmias, and thromboembolic events. These long-term effects, collectively called \"long COVID\" or post-acute sequelae of SARS-CoV-2 infection (PASC), present significant challenges for healthcare systems and patient management. Diagnostic approaches include imaging techniques and laboratory tests to identify and monitor cardiovascular complications. Management strategies emphasize a holistic approach, incorporating pharmacological treatments and lifestyle modifications. Special attention is required for vulnerable populations, including those with pre-existing cardiovascular conditions. Ongoing research is essential to understand the full spectrum of long-term cardiovascular impacts and to develop effective treatments. This review highlights the critical need for continued vigilance, multidisciplinary care, and research to address the cardiovascular sequelae of COVID-19 and improve long-term health outcomes for survivors."
+            },
+            {
+                "Title": "Long COVID Is Not a Functional Neurologic Disorder.",
+                "PMID": "39201991",
+                "Authors": [
+                    "Davenport TE",
+                    "Blitshteyn S",
+                    "Clague-Baker N",
+                    "Davies-Payne D",
+                    "Treisman GJ",
+                    "Tyson SF"
+                ],
+                "Source": "Journal of personalized medicine",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Jul",
+                    "Day": "29"
+                },
+                "Abstract": "Long COVID is a common sequela of SARS-CoV-2 infection. Data from numerous scientific studies indicate that long COVID involves a complex interaction between pathophysiological processes. Long COVID may involve the development of new diagnosable health conditions and exacerbation of pre-existing health conditions. However, despite this rapidly accumulating body of evidence regarding the pathobiology of long COVID, psychogenic and functional interpretations of the illness presentation continue to be endorsed by some healthcare professionals, creating confusion and inappropriate diagnostic and therapeutic pathways for people living with long COVID. The purpose of this perspective is to present a clinical and scientific rationale for why long COVID should not be considered as a functional neurologic disorder. It will begin by discussing the parallel historical development of pathobiological and psychosomatic/sociogenic diagnostic constructs arising from a common root in neurasthenia, which has resulted in the collective understandings of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) and functional neurologic disorder (FND), respectively. We will also review the case definition criteria for FND and the distinguishing clinical and neuroimaging findings in FND vs. long COVID. We conclude that considering long COVID as FND is inappropriate based on differentiating pathophysiologic mechanisms and distinguishing clinical findings."
+            },
+            {
+                "Title": "Diagnosing, Managing, and Studying Long-COVID Syndromes in Children & Adolescents in Rural and Underserved Populations.",
+                "PMID": "39187064",
+                "Authors": [
+                    "Weakley K",
+                    "Snowden J"
+                ],
+                "Source": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Aug",
+                    "Day": "24"
+                },
+                "Abstract": "The COVID-19 pandemic has arguably had its greatest impact in rural and other historically hard-to-reach populations. Families in rural and underserved communities experienced COVID-19 infections at higher rate than their peers in other groups and also experienced disproportionate morbidity and mortality. Without careful design and implementation of resources, children in these areas are also at risk of being disproportionately impacted by long-term sequelae of SARS-CoV-2 infections, such as \"Long COVID\" syndromes. Increased frequency and severity of COVID-19 infections; decreased access to healthcare and supporting services; environmental and social structure factors that exacerbate post-acute sequelae of COVID-19 (PASC); and increased baseline frequency of health disorders that may complicate post-COVID issues, such as higher rates of obesity, asthma, diabetes, and mental health disorders all place children and adolescents in under-resourced areas at significant risk. Unfortunately, children and adolescents in these areas have been historically underrepresented in clinical research. Not only are fewer studies published with participants in rural and underserved communities, but these studies more often exhibit lower quality with fewer randomized controlled trials and multicenter studies. This gap not only deprives people in rural and underserved areas of the country of access to cutting edge therapy; but it also risks \"evidence-based\" solutions that are not generalizable because they cannot be implemented in the areas disproportionately impacted by many health conditions such as Long COVID. These factors significantly impede our ability to provide appropriate medical care for underserved communities. This review will discuss the impact of COVID-19 in rural and underserved communities and the factors that must be considered in designing evidence-based Long COVID solutions for children and adolescents in these areas."
+            },
+            {
+                "Title": "\"Inflammatory Pathways in Patients with Post-acute Sequelae of COVID-19 - The Role of the Clinical Immunologist\".",
+                "PMID": "39179099",
+                "Authors": [
+                    "Elliott MR",
+                    "O'Connor AE",
+                    "Marshall GD"
+                ],
+                "Source": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Aug",
+                    "Day": "21"
+                },
+                "Abstract": "As the SARS-CoV-2 pandemic progressed, some survivors noted prolonged symptoms following acute infection, termed post-acute sequelae of COVID-19 (PASC) or \"long COVID.\" PASC is a significant clinical and public health concern that adversely impacts patients' quality of life, income, and health care expenses. PASC symptoms are highly heterogenous, the most common being fatigue and cognitive impairment, and they likely reflect a spectrum of clinical phenotypes. The proposed role of persistent inflammation is one of leading pathophysiological theories. This review article addresses these proposed mechanisms of persistent and aberrant inflammation, their clinical evaluation and theoretical approaches to management. A review of public databases was used to collect literature for the review. The literature supports a prominent role of persistent and aberrant inflammation as a major contributor to the symptoms of PASC. Proposed mechanisms for persistent inflammation include reactivation of latent viruses, viral persistence, loss of immunoregulatory pathways, autoimmune mechanisms, and/or mast cell dysregulation. Persistent inflammation may result in constitutional symptoms such as fatigue, brain fog, body aches, and/or organ specific dysfunction such as gastrointestinal dysregulation, myocardial inflammation and others. There are no approved or even proven therapies for PASC at this time, but some studies have identified therapeutic options that may either reduce the risk for progression to PASC or decrease symptom burden. Laboratory evaluation and therapeutic options are limited and require further investigation to establish their clinical value. A more refined definition of PASC is needed to address the wide variety of clinical presentations, pathophysiology, and therapeutic options."
+            },
+            {
+                "Title": "Mechanisms of long COVID: An updated review.",
+                "PMID": "39171285",
+                "Authors": [
+                    "Liu Y",
+                    "Gu X",
+                    "Li H",
+                    "Zhang H",
+                    "Xu J"
+                ],
+                "Source": "Chinese medical journal pulmonary and critical care medicine",
+                "PublicationDate": {
+                    "Year": "2023",
+                    "Month": "Dec"
+                },
+                "Abstract": "The coronavirus disease 2019 (COVID-19) pandemic has been ongoing for more than 3 years, with an enormous impact on global health and economies. In some patients, symptoms and signs may remain after recovery from severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, which cannot be explained by an alternate diagnosis; this condition has been defined as long COVID. Long COVID may exist in patients with both mild and severe disease and is prevalent after infection with different SARS-CoV-2 variants. The most common symptoms include fatigue, dyspnea, and other symptoms involving multiple organs. Vaccination results in lower rates of long COVID. To date, the mechanisms of long COVID remain unclear. In this narrative review, we summarized the clinical presentations and current evidence regarding the pathogenesis of long COVID."
+            },
+            {
+                "Title": "A practical framework for Long COVID treatment in primary care.",
+                "PMID": "39142509",
+                "Authors": [
+                    "Brode WM",
+                    "Melamed E"
+                ],
+                "Source": "Life sciences",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Oct",
+                    "Day": "01"
+                },
+                "Abstract": "Long COVID is a complex, multisystem illness with a poorly understood pathophysiology, absence of specific diagnostic tests or criteria, or evidence-based treatments. With over 200 identified symptoms and approximately 10% of COVID-19 cases resulting in Long COVID, it is a challenge to provide comprehensive treatment at a scale commensurate with the illness burden. The diverse manifestations of Long COVID, encompassing numerous medical specialties, typically place primary care providers (PCPs) at the forefront of management, navigating an evolving landscape of research and lack of evidence-based guidelines. This paper presents a pragmatic, structured framework for Long COVID management in primary care, integrating current knowledge and best practices. The approach is individualized, addressing Long COVID's broad symptomatology through a four-step framework. The first step focuses on energy management strategies, emphasizing the prevention of post-exertional malaise, a cardinal feature of Long COVID. The second step, intentional rehabilitation, employs carefully titrated multidisciplinary modalities to address physical, cognitive, and emotional domains. The third step utilizes symptomatic management through both pharmacological and non-pharmacological interventions, targeting debilitating symptoms like fatigue, insomnia, and chronic pain. The fourth step outlines an approach to trialing experimental, targeted therapies that may impact Long COVID's underlying pathophysiology. These treatments, while experimental and lacking quality evidence in Long COVID, may be available off-label on an individual basis following a thorough risk-benefit discussion. This stepwise framework can equip PCPs to effectively address the most common and disabling symptoms of Long COVID, individualize care, and remain attuned to the evolving scientific understanding of the condition."
+            },
+            {
+                "Title": "Short-term intermittent hypoxia exposure for dyspnea and fatigue in post-acute sequelae of COVID-19: A randomized controlled study.",
+                "PMID": "39127085",
+                "Authors": [
+                    "Zha S",
+                    "Liu X",
+                    "Yao Y",
+                    "He Y",
+                    "Wang Y",
+                    "Zhang Q",
+                    "Zhang J",
+                    "Yi Y",
+                    "Xiao R",
+                    "Hu K"
+                ],
+                "Source": "Respiratory medicine",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Oct"
+                },
+                "Abstract": "Post-acute sequelae of COVID-19 (PASC) is incurring a huge health and economic burden worldwide. There is currently no effective treatment or recommended drug for PASC. This prospective randomized controlled study was conducted in a hospital in China. The effect of intermittent hypoxia exposure (IHE; 5-min hypoxia alternating with 5-min normal air, repeated five times) on dyspnea and fatigue was investigated in patients meeting the NICE definition of PASC. Patients were computationally randomized to receive normoxia exposure (NE) and routine therapy or IHE and routine therapy. Six-minute walk distance (6MWD) and spirometry were tested before and after the interventions; the Borg Dyspnea Scale (Borg) and the modified Medical Research Council Dyspnea Scale (mMRC) were used to assess dyspnea; and the Fatigue Assessment Scale (FAS) and the Chalder Fatigue Scale-11 (CFQ-11) were used to assess fatigue. The study was registered in the Chinese Clinical Trial Registry (ChiCTR2300070565). Ninety-five participants (33 males and 62 females) were recruited between March 1, 2023 and December 30, 2023. Forty-seven patients in the IHE group received 10.0 (9.0, 15.0) days of IHE, and 48 patients in NE group received 10.0 (8.0, 12.0) days of NE. 6MWD, forced vital capacity (FVC), FVC %pred, forced expiratory volume in 1\u00a0s (FEV<sub>1</sub>), FEV<sub>1</sub> %pred, tidal volume (V<sub>T</sub>), and dyspnea and fatigue scales markedly improved after IHE (p\u00a0<\u00a00.05), and improvements were greater than in the NE group (all p\u00a0<\u00a00.05). Furthermore, participants in IHE group had better subjective improvements in dyspnea and fatigue than those in the NE group (p\u00a0<\u00a00.05). Compared with <10 days of IHE, \u226510 days of IHE had a greater impact on 6MWD, FVC, FEV<sub>1</sub>, FEV<sub>1</sub> %pred, V<sub>T</sub>, FAS, and CFQ-11. No severe adverse events were reported. IHE improved spirometry and 6MWD and relieved dyspnea and fatigue in PASC patients. Larger prospective studies are now needed to verify these findings."
+            },
+            {
+                "Title": "Gastrocnemius electrical stimulation increases ankle dorsiflexion strength in patients with post-acute sequelae of SARS-COV-2 (PASC): a double-blind randomized controlled trial.",
+                "PMID": "39095520",
+                "Authors": [
+                    "Lee M",
+                    "Zulbaran-Rojas A",
+                    "Bargas-Ochoa M",
+                    "Martinez-Leal B",
+                    "Bara R",
+                    "Flores-Camargo A",
+                    "Finco MG",
+                    "Mishra RK",
+                    "Beom J",
+                    "Modi D",
+                    "Shaib F",
+                    "Najafi B"
+                ],
+                "Source": "Scientific reports",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Aug",
+                    "Day": "02"
+                },
+                "Abstract": "Post-Acute sequelae of SARS-CoV-2 (PASC) is a multisystem disorder causing persistent musculoskeletal deconditioning and reduced lower extremity strength. Electrical stimulation (E-Stim) to the gastrocnemius muscle can enhance strength outcomes by increasing the frequency of muscle fiber activation. We investigated its effect on individuals with PASC. Participants were randomized into intervention (IG) or control (CG) groups. The IG self-administered daily one-hour E-Stim to both their gastrocnemius muscles using a functional device over 4-week, while the CG used a sham device. Primary outcomes were ankle dorsiflexion strength assessed via dynamometry during maximum voluntary contractions, and gastrocnemius voluntary activation (GVA) via surface electromyography. The secondary outcome assessed activities of daily living (ADL), instrumental ADL, and mobility queries. Percentage improvement was calculated. Eighteen patients were analyzed (IG\u2009=\u200910; CG\u2009=\u20098). After 4\u00a0week, the IG showed a significantly higher improvement in ankle dorsiflexion strength (222.64%) compared to the CG (51.27%, p\u2009=\u20090.002). Additionally, the IG's ankle dorsiflexion strength improvement significantly correlated with GVA improvement (rho\u2009=\u20090.782) at 4\u00a0week. The secondary outcomes did not reveal significant changes in neither group. Self-administered gastrocnemius E-Stim improves ankle dorsiflexion strength in individuals with PASC. However, larger sample sizes and longer interventions are needed to validate these findings."
+            },
+            {
+                "Title": "Lessons learnt from broad-spectrum coronavirus antiviral drug discovery.",
+                "PMID": "39078037",
+                "Authors": [
+                    "Bolinger AA",
+                    "Li J",
+                    "Xie X",
+                    "Li H",
+                    "Zhou J"
+                ],
+                "Source": "Expert opinion on drug discovery",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "Highly pathogenic coronaviruses (CoVs), such as severe acute respiratory syndrome CoV (SARS-CoV), Middle East respiratory syndrome CoV (MERS-CoV), and the most recent SARS-CoV-2 responsible for the COVID-19 pandemic, pose significant threats to human populations over the past two decades. These CoVs have caused a broad spectrum of clinical manifestations ranging from asymptomatic to severe distress syndromes (ARDS), resulting in high morbidity and mortality. The accelerated advancements in antiviral drug discovery, spurred by the COVID-19 pandemic, have shed new light on the imperative to develop treatments effective against a broad spectrum of CoVs. This perspective discusses strategies and lessons learnt in targeting viral non-structural proteins, structural proteins, drug repurposing, and combinational approaches for the development of antivirals against CoVs. Drawing lessons from the pandemic, it becomes evident that the absence of efficient broad-spectrum antiviral drugs increases the vulnerability of public health systems to the potential onslaught by highly pathogenic CoVs. The rapid and sustained spread of novel CoVs can have devastating consequences without effective and specifically targeted treatments. Prioritizing the effective development of broad-spectrum antivirals is imperative for bolstering the resilience of public health systems and mitigating the potential impact of future highly pathogenic CoVs."
+            }
+        ],
+        "semantic_scholar_results": null,
+        "combined_summary": "### Summary of Recent Research on Long COVID and Related Conditions\n\n1. **Long COVID and Diagnostic Needs**  \n   - **Title**: Long COVID or Post-Acute Sequelae of SARS-CoV-2 Infection (PASC)  \n   - **Key Insights**: Long COVID affects 10-20% of individuals post-SARS-CoV-2 infection, presenting over 200 symptoms, including fatigue and cognitive impairment. There are currently no identified biomarkers for diagnosis, highlighting the urgent need for research into diagnostic tools and risk factors to improve management strategies.  \n   - **Reference**: Parums DV, *Medical Science Monitor*, 2024.\n\n2. **Cardiovascular Impacts of COVID-19**  \n   - **Title**: The Long-Term Cardiovascular Impact of COVID-19  \n   - **Key Insights**: COVID-19 can lead to significant cardiovascular complications, including myocarditis and heart failure, through mechanisms like inflammation and endothelial dysfunction. A multidisciplinary approach is essential for managing these long-term effects, particularly in vulnerable populations.  \n   - **Reference**: Mukkawar RV et al., *Cureus*, 2024.\n\n3. **Distinguishing Long COVID from Functional Neurologic Disorders**  \n   - **Title**: Long COVID Is Not a Functional Neurologic Disorder  \n   - **Key Insights**: This perspective argues against classifying long COVID as a functional neurologic disorder, emphasizing distinct pathophysiological mechanisms. It calls for clearer diagnostic criteria to avoid mismanagement of patients.  \n   - **Reference**: Davenport TE et al., *Journal of Personalized Medicine*, 2024.\n\n4. **Impact on Children in Underserved Areas**  \n   - **Title**: Diagnosing, Managing, and Studying Long-COVID Syndromes in Children & Adolescents in Rural and Underserved Populations  \n   - **Key Insights**: Children in rural areas face higher risks of long COVID due to increased infection rates and limited healthcare access. The review stresses the need for tailored research and interventions to address these disparities.  \n   - **Reference**: Weakley K, Snowden J, *Annals of Allergy, Asthma & Immunology*, 2024.\n\n5. **Inflammatory Mechanisms in PASC**  \n   - **Title**: Inflammatory Pathways in Patients with Post-acute Sequelae of COVID-19  \n   - **Key Insights**: Persistent inflammation is a significant contributor to PASC symptoms. The review discusses potential mechanisms and emphasizes the need for further research into targeted therapies.  \n   - **Reference**: Elliott MR et al., *Annals of Allergy, Asthma & Immunology*, 2024.\n\n6. **Mechanisms of Long COVID**  \n   - **Title**: Mechanisms of long COVID: An updated review  \n   - **Key Insights**: Long COVID can manifest in patients with varying severity of initial infections. The review summarizes clinical presentations and potential pathogenesis, noting that vaccination may reduce long COVID incidence.  \n   - **Reference**: Liu Y et al., *Chinese Medical Journal*, 2023.\n\n7. **Framework for Primary Care Management**  \n   - **Title**: A practical framework for Long COVID treatment in primary care  \n   - **Key Insights**: A structured four-step framework for managing long COVID in primary care is proposed, focusing on energy management, rehabilitation, symptomatic treatment, and trialing experimental therapies.  \n   - **Reference**: Brode WM, Melamed E, *Life Sciences*, 2024.\n\n8. **Intermittent Hypoxia for Symptom Relief**  \n   - **Title**: Short-term intermittent hypoxia exposure for dyspnea and fatigue in post-acute sequelae of COVID-19  \n   - **Key Insights**: A randomized controlled trial found that intermittent hypoxia exposure significantly improved dyspnea and fatigue in PASC patients, suggesting a potential therapeutic avenue.  \n   - **Reference**: Zha S et al., *Respiratory Medicine*, 2024.\n\n9. **Electrical Stimulation for Muscle Strength**  \n   - **Title**: Gastrocnemius electrical stimulation increases ankle dorsiflexion strength in patients with PASC  \n   - **Key Insights**: Electrical stimulation of the gastrocnemius muscle improved ankle dorsiflexion strength in PASC patients, indicating a promising intervention for muscle deconditioning.  \n   - **Reference**: Lee M et al., *Scientific Reports*, 2024.\n\n10. **Broad-Spectrum Antiviral Drug Discovery**  \n    - **Title**: Lessons learnt from broad-spectrum coronavirus antiviral drug discovery  \n    - **Key Insights**: The need for effective broad-spectrum antiviral drugs is emphasized to prepare for future coronavirus outbreaks. The review discusses strategies for drug development based on lessons learned during the COVID-19 pandemic.  \n    - **Reference**: Bolinger",
+        "status": "success",
+        "time_stamp": "2024-09-18_18-16-52"
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "query": "Pneumonia",
+        "pubmed_results": [
+            {
+                "Title": "Relationship between nutritional condition and causes of death in beluga whales Delphinapterus leucas from the St. Lawrence estuary, Quebec, Canada.",
+                "PMID": "39263853",
+                "Authors": [
+                    "Larrat S",
+                    "Lesage V",
+                    "Michaud R",
+                    "Lair S"
+                ],
+                "Source": "Diseases of aquatic organisms",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "12"
+                },
+                "Abstract": "Carcasses of endangered beluga whales Delphinapterus leucas from the St. Lawrence Estuary, Canada, have been examined consistently since 1983 to determine causes of death. The objective of this study is to compare the nutritional condition of belugas that died of different causes. Previously published categories of death were refined to discriminate acute from chronic pathological processes. Bayesian linear models were used to predict cause of death from the scaled mass index (SMI). Causes of death were as follows: 'bacterial diseases', 'verminous pneumonia', 'toxoplasmosis', 'other parasitic diseases', 'other infectious diseases', 'trauma-entrapment', 'other noninfectious diseases', 'dystocia-postpartum complications', 'neonatal mortality', 'cancer', 'primary starvation' and 'undetermined'. The models predicted a lower nutritional condition for the 'neonatal mortality' in belugas <290 cm in length and for 'primary starvation' and 'verminous pneumonia' categories for belugas \u2265290 cm. Belugas that died from 'dystocia-postpartum complications' or from 'undetermined causes' had a higher-than-average SMI. Animals in the 'trauma-entrapment' category did not exhibit the highest nutritional condition, which was unexpected since individuals that died from trauma or entrapment are often used as references for optimal nutritional condition in other cetacean populations. Females that died from dystocia and postpartum complications were in similar nutritional condition as females dead from other causes during, or shortly after, pregnancy. This suggests that these females are not obese, ruling out a possible cause of dystocia. Although studying dead animals biases results toward low nutritional condition, our findings support the link between chronic pathological processes and poorer nutritional condition in belugas."
+            },
+            {
+                "Title": "Clinical manifestations, treatment and prognosis of juvenile idiopathic arthritis with pulmonary involvement in China: a single centre study.",
+                "PMID": "39263798",
+                "Authors": [
+                    "Gao F",
+                    "Zhang J",
+                    "Deng J",
+                    "Kuang W",
+                    "Tan X",
+                    "Li C",
+                    "Li S",
+                    "Liu X",
+                    "Li C"
+                ],
+                "Source": "Clinical and experimental rheumatology",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "09"
+                },
+                "Abstract": "In recent years, the distinct clinical presentations and elevated mortality rates of various subtypes of juvenile idiopathic arthritis (JIA) with pulmonary involvement have garnered significant attention. This study aimed to elucidate the clinical characteristics of pulmonary involvement in patients with JIA to improve clinicians' knowledge. This single-centre retrospective study analysed the baseline data, treatment options, follow-up of sixty patients of JIA with pulmonary involvement in China. Patients with interstitial lung disease (ILD) were further classified in accordance with the 2013 American Thoracic Society/European Respiratory Society International multidisciplinary consensus on idiopathic interstitial pneumonia. Sixty patients (5.03%) with JIA were complicated with pulmonary involvement. The highest subtype was systemic JIA (sJIA, 63.3%), followed by rheumatoid factor (RF)-positive polyarthritis (pJIA, 25.0%). The incidence of macrophage activation syndrome (MAS) was 21.6%. The most common diagnosis was ILD (90%). Respiratory symptoms/signs were initially experienced by 61.7% of the patients, and respiratory support was required by 21.7%. High-resolution CT classification of sJIA revealed non-specific interstitial pneumonia (NSIP) and organising pneumonia. High-resolution CT classification of pJIA was NSIP and usually interstitial pneumonia (UIP). Patients were treated with NSAIDs, along with glucocorticoids, DMARDs, and biological agents. The survival rates after 1 and 5 years were approximately 93.3% and 90.0%, respectively. Patients with JIA with pulmonary involvement present with early onset, high mortality rate. JIA patients should undergo physical examination thoroughly and high-resolution CT scans, lung function tests for evaluating and monitoring the occurrence and development of pulmonary involvement in early stages to improve prognosis."
+            },
+            {
+                "Title": "Relationship among Dietary Intake of Vitamin E, Lipid Peroxidation Markers, and C-Reactive Protein in Flu-Like Patients Diagnosed with COVID-19.",
+                "PMID": "39263681",
+                "Authors": [
+                    "Primo MGS",
+                    "da Silva LAA",
+                    "de Carvalho VBL",
+                    "de Azevedo MAF",
+                    "Monteiro NVDN",
+                    "Mendes VR",
+                    "da Silva JKM",
+                    "Oliveira ASDSS",
+                    "Brito AKDS",
+                    "Sales ALCC",
+                    "Mallet JRDS",
+                    "Parente JML",
+                    "de Matos Neto EM",
+                    "Ferreira PMP",
+                    "Arcanjo DDR",
+                    "Martins MDCCE"
+                ],
+                "Source": "Oxidative medicine and cellular longevity",
+                "PublicationDate": {
+                    "Year": "2023"
+                },
+                "Abstract": "This research aimed to assess the intake of vitamin E and its relationship with lipid peroxidation markers and C-reactive protein levels in patients with flu symptoms and COVID-19 diagnosis. A cross-sectional study with 121 patients of both sexes assisted at two basic health units in the city of Teresina, Piau\u00ed, with COVID-19 diagnosis confirmed through real-time reverse transcription polymerase chain reaction, was performed between the 3<sup>rd</sup> and 7<sup>th</sup> days of flu symptoms. The global nutritional status and the measurement of waist circumference were assessed according to the World Health Organization recommendations. The dietary energy intake, macronutrients, and vitamin E consumption were assessed through the 24\u2009hr food recall method. The malondialdehyde plasmatic concentration (MDA) was measured through the method of thiobarbituric acid-reactive substances. Myeloperoxidase (MPO) was assessed through the oxidation speed of the o-dianisidine substrate in the presence of hydrogen peroxide. C-reactive protein (CRP) levels were measured by a high-sensitivity immunoturbidimetry method. The most common symptoms reported by the participants were sore throat, fever, and cough. Regarding the global nutritional status evaluation, the majority of the sample had overweight. The dietary intake of vitamin E was 100% inadequate and presented a mild correlation (<i>r</i>\u2009=\u20090.197) with MDA, a redox status marker. No correlation was observed among MPO, CRP, and the dietary intake of vitamin E. The dietary intake of vitamin E was related to MDA as the marker of redox status."
+            },
+            {
+                "Title": "Development and validation of a mortality risk prediction model for chronic obstructive pulmonary disease: a cross-sectional study using probabilistic graphical modelling.",
+                "PMID": "39263674",
+                "Authors": [
+                    "Lovelace TC",
+                    "Ryu MH",
+                    "Jia M",
+                    "Castaldi P",
+                    "Sciurba FC",
+                    "Hersh CP",
+                    "Benos PV"
+                ],
+                "Source": "EClinicalMedicine",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "Chronic Obstructive Pulmonary Disease (COPD) is a leading cause of mortality. Predicting mortality risk in patients with COPD can be important for disease management strategies. Although all-cause mortality predictors have been developed previously, limited research exists on factors directly affecting COPD-specific mortality. In a retrospective study, we used probabilistic graphs to analyse clinical cross-sectional data (COPDGene cohort), including demographics, spirometry, quantitative chest imaging, and symptom features, as well as gene expression data. COPDGene recruited current and former smokers, aged 45-80 years with >10 pack-years smoking history, from across the USA (Phase 1, 11/2007-4/2011) and invited them for a follow-up visit (Phase 2, 7/2013-7/2017). ECLIPSE cohort recruited current and former smokers (COPD patients and controls from USA and Europe), aged 45-80 with smoking history >10 pack-years (12/2005-11/2007). We applied graphical models on multi-modal data COPDGene Phase 1 participants to identify factors directly affecting all-cause and COPD-specific mortality (primary outcomes); and on Phase 2 follow-up cohort to identify additional molecular and social factors affecting mortality. We used penalized Cox regression with features selected by the causal graph to build VAPORED, a mortality risk prediction model. VAPORED was compared to existing scores (BODE: BMI, airflow obstruction, dyspnoea, exercise capacity; ADO: age, dyspnoea, airflow obstruction) on the ability to rank individuals by mortality risk, using four evaluation metrics (concordance, concordance probability estimate (CPE), cumulative/dynamic (C/D) area under the receiver operating characteristic curve (AUC), and integrated C/D AUC). The results were validated in ECLIPSE. Graphical models, applied on the COPDGene Phase 1 samples (n\u00a0=\u00a08610), identified 11 and 7 variables directly linked to all-cause and COPD-specific mortality, respectively. Although many appear in both models, non-lung comorbidities appear only in the all-cause model, while forced vital capacity (FVC %predicted) appears in COPD-specific mortality model only. Additionally, the graph model of Phase 2 data (n\u00a0=\u00a03182) identified internet access, CD4 T cells and platelets to be linked to lower mortality risk. Furthermore, using the 7 variables linked to COPD-specific mortality (forced expiratory volume in 1\u00a0s/forced vital capacity (FEV<sub>1</sub>/FVC) ration, FVC %predicted, age, history of pneumonia, oxygen saturation, 6-min walk distance, dyspnoea) we developed <i>VAPORED</i> mortality risk score, which we validated on the ECLIPSE cohort (3-yr all-cause mortality data, n\u00a0=\u00a02312). VAPORED performed significantly better than ADO, BODE, and updated BODE indices in predicting all-cause mortality in ECLIPSE in terms of concordance (VAPORED [0.719] vs ADO [0.693; FDR p-value 0.014], BODE [0.695; FDR p-value 0.020], and updated BODE [0.694; FDR p-value 0.021]); CPE (VAPORED [0.714] vs ADO [0.673; FDR p-value <0.0001], BODE [0.662; FDR p-value <0.0001], and updated BODE [0.646; FDR p-value <0.0001]); 3-year C/D AUC (VAPORED [0.728] vs ADO [0.702; FDR p-value 0.017], BODE [0.704; FDR p-value 0.021], and updated BODE [0.703; FDR p-value 0.024]); integrated C/D AUC (VAPORED [0.723] vs ADO [0.698; FDR p-value 0.047], BODE [0.695; FDR p-value 0.024], and updated BODE [0.690; FDR p-value 0.021]). Finally, we developed a web tool to help clinicians calculate VAPORED mortality risk and compare it to ADO and BODE predictions. Our work is an important step towards improving our identification of high-risk patients and generating hypotheses of potential biological mechanisms and social factors driving mortality in patients with COPD at the population level. The main limitation of our study is the fact that the analysed datasets consist of older people with extensive smoking history and limited racial diversity. Thus, the results are relevant to high-risk individuals or those diagnosed with COPD and the VAPORED score is validated for them. This research was supported by NIH [NHLBI, NLM]. The COPDGene study is supported by the COPD Foundation, through grants from AstraZeneca, Bayer Pharmaceuticals, Boehringer Ingelheim, Genentech, GlaxoSmithKline, Novartis, Pfizer and Sunovion."
+            },
+            {
+                "Title": "Necrotizing pneumonia secondary to Influenza A (H1N1) coinfection with Staphylococcus aureus: A case report.",
+                "PMID": "39263669",
+                "Authors": [
+                    "Chen H",
+                    "Duan H",
+                    "Zhao J",
+                    "Sun K",
+                    "Shan K"
+                ],
+                "Source": "IDCases",
+                "PublicationDate": {
+                    "Year": "2024"
+                },
+                "Abstract": "This study aims to enhance understanding of necrotizing pneumonia and toxic shock syndrome by analyzing an adult case of community-acquired necrotizing pneumonia caused by co-infection of Influenza A (H1N1) and Staphylococcus aureus with LukS-PV and LukF-PV virulence factor genes. The clinical data of one patient admitted to the intensive care unit (ICU) with co-infection of Influenza A (H1N1) and Staphylococcus aureus was retrospectively analyzed. The patient exhibited typical clinical manifestations of viral and Staphylococcus aureus co-infection, including necrotizing pneumonia and toxic shock syndrome. The presence of LukS-PV and LukF-PV virulence factor genes of Staphylococcus aureus was detected in the patient's bronchoalveolar lavage fluid. Unfortunately\uff0calthough antiviral agents (oseltamivir) and antibiotics (linezolid, imipenem-cilastatin) were timely administrated, as well as corticosteroids for anti-inflammatory purposes, the patient's condition was progressively deteriorated and eventually led to death. Clinical practitioners should be vigilant about the co-infection of Influenza virus and Staphylococcus aureus, particularly when the latter carries virulence factors. The presence of virulence factor genes of Staphylococcus aureus can lead to necrotizing pneumonia with a poor prognosis. This is a particular concern because both infections can be life threatening in young adults."
+            },
+            {
+                "Title": "Ultra-Early Diffuse Lung Disease in an Infant with Pathogenic Variant in Telomerase Reverse Transcriptase (<i>TERT</i>) Gene.",
+                "PMID": "39263645",
+                "Authors": [
+                    "Visekruna J",
+                    "Basa M",
+                    "Grba T",
+                    "Andjelkovic M",
+                    "Pavlovic S",
+                    "Nathan N",
+                    "Sovtic A"
+                ],
+                "Source": "Balkan journal of medical genetics : BJMG",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Jun"
+                },
+                "Abstract": "The pathogenic variants in the telomerase reverse transcriptase (<i>TERT</i>) gene have been identified in adults with idiopathic pulmonary fibrosis, while their connection to childhood diffuse lung disease has not yet been described. Within this study, we present a case of a five-month-old, previously healthy infant, with early-onset respiratory failure. The clinical suspicion of diffuse lung disease triggered by cytomegalovirus (CMV) pneumonitis was based on clinical and radiological presentation. Multiorgan involvement was not confirmed. Considering the possible connection between CMV pneumonitis and early-onset respiratory failure, clinical exome sequencing was performed and a novel variant, classified as likely pathogenic in the <i>TERT</i> gene (c.280A>T, p.Lys94Ter) was detected. After segregation analysis yielded negative results, the <i>de novo</i> status of the variant was confirmed. Respiratory support, antiviral and anti-inflammatory therapy offered modest benefits, nevertheless, eighteen months after the initial presentation of disease, an unfavourable outcome occurred. In conclusion, severe viral pneumonia has the potential to induce extremely rare early-onset diffuse lung disease accompanied by chronic respiratory insufficiency. This is linked to pathogenic variants in the <i>TERT</i> gene. Our comprehensive presentation of the patient contributes to valuable insights into the intricate interplay of genetic factors, clinical presentations, and therapeutic outcomes in cases of early-onset respiratory failure."
+            },
+            {
+                "Title": "Surge in Mycoplasma Pneumoniae infection and Respiratory Viruses Co-infection in Children With Community-Acquired Pneumonia in the Post-Pandemic.",
+                "PMID": "39263589",
+                "Authors": [
+                    "Chi J",
+                    "Tang H",
+                    "Wang F",
+                    "Wang Y",
+                    "Chen Z"
+                ],
+                "Source": "Pediatric health, medicine and therapeutics",
+                "PublicationDate": {
+                    "Year": "2024"
+                },
+                "Abstract": "During the COVID-19 pandemic, multifaceted non-pharmaceutical interventions have not only reduced the transmission of SARS-CoV2 but also affected the prevalence of other respiratory pathogens. With the lifting of many restrictions, a surge in cases of pneumonia in children has been reported in many hospitals in China. The study assessed the changes in pathogen and symptoms of children with community-acquired pneumonia (CAP) before and after the adjustments of prevention and control measures of epidemic and provided recommendations for CAP in children. Children diagnosed with CAP were enrolled in the study from 2022 to 2023. A cross-sectional retrospective study was conducted in a general hospital. We analyzed the data about demographic data, clinical symptoms, pathogens, and medical treatments. The Chi-square and Mann-Whitney <i>U</i>-test were used to assess the statistical significance of groups. We studied 1103 children, 339 in 2022 and 764 in 2023. Compared with children in 2022, more children were diagnosed with CAP in 2023 and these children had a higher body temperature and levels of CRP and PCT, which indicated these children got severe inflammation. The positive rate of the pathogen was also higher in 2023, especially the detective rate of <i>Mycoplasma pneumoniae</i>. The number of children infected with more than two pathogens was higher in 2023, especially those co-infected with the virus and <i>M. Pneumoniae</i>. Concerning the medicine therapy, the usage of \u03b2-lactam antibiotics, Macrolide antibiotics, and antiviral drugs kept rapid growth. After the adjustment of epidemic prevention and control policies in 2023, more children got CAP with severe clinical symptoms, and more antibiotics and antiviral drugs were used. Further study is needed to explore the reasons for the increase in children with CAP and to explore the rationality of treatment."
+            },
+            {
+                "Title": "Mental Health and Other Factors Associated with COVID-19 Vaccination Intention toward Children of Military Parents in Lambayeque, Peru.",
+                "PMID": "39263586",
+                "Authors": [
+                    "Valladares-Garrido MJ",
+                    "Alvarez-Risco A",
+                    "Rojas-Alvarado AB",
+                    "Pic\u00f3n-Re\u00e1tegui CK",
+                    "Dawson Aguila F",
+                    "Del-Aguila-Arcentales S",
+                    "Davies NM",
+                    "Failoc-Rojas VE",
+                    "Pereira-Victorio CJ",
+                    "Valladares Garrido D",
+                    "Vera-Ponce VJ",
+                    "Y\u00e1\u00f1ez JA"
+                ],
+                "Source": "TheScientificWorldJournal",
+                "PublicationDate": {
+                    "Year": "2024"
+                },
+                "Abstract": "There is evidence that vaccine acceptability is strongly associated with mental health. However, no studies assessing intention to vaccinate (ITV) intention toward children of military parents have been documented. The current research aimed to establish the prevalence and factors of ITV children against COVID-19 in military parents in Lambayeque-Peru, 2021. Analysis was conducted with the dependent variable ITV children reported by military parents. The independent variables were history of mental health, searching for mental health support, food insecurity, resilience, anxiety, depression, burnout, posttraumatic stress, and suicidal risk. Prevalence ratios and 95% confidence intervals were estimated. Of 201 military personnel evaluated, 92.5% were male, 82.5% were of the Catholic faith, and the median age was 40.9% of respondents reported seeking mental health help during the COVID-19 pandemic. It was reported anxiety (20.3%), depression (6.5%), and posttraumatic stress disorder (6.5%). Most reported ITV in children against COVID-19 (93%). In the multiple models, we found that Catholics had a 23% higher prevalence of ITV in the children where PR\u2009=\u2009prevalence ratios and CI\u2009=\u2009confidence intervals (PR\u2009=\u20091.23; 95% CI: 1.01-1.50). Likewise, seeking mental health support increased the prevalence of ITV by 8% (PR\u2009=\u20091.08; 95% CI: 1.00-1.15). Seeking mental health support and belonging to the Catholic faith had a higher ITV of children of Peruvian military personnel. Finding mental health support, experiencing burnout syndrome, having a relative who suffers from mental health problems, and being part of the Catholic religion were associated with a higher willingness to immunize the children of Peruvian military members."
+            },
+            {
+                "Title": "Usefulness of an ultrathin endoscope in esophageal endoscopic submucosal dissection.",
+                "PMID": "39263559",
+                "Authors": [
+                    "Kikuchi D",
+                    "Suzuki Y",
+                    "Kawai Y",
+                    "Nomura K",
+                    "Ochiai Y",
+                    "Hayasaka J",
+                    "Mitsunaga Y",
+                    "Okamura T",
+                    "Odagiri H",
+                    "Yamashita S",
+                    "Matsui A",
+                    "Tanaka M",
+                    "Hoteya S"
+                ],
+                "Source": "Endoscopy international open",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "<b>Background and study aims</b> Endoscopic submucosal dissection (ESD) is sometimes challenging because of stenosis and scarring. We examined the use of an ultrathin endoscope for esophageal ESD, which is difficult using conventional endoscopes. <b>Patients and methods</b> A designated transparent hood and ESD knife for ultrathin endoscopes have been developed and clinically introduced. Esophageal ESD was performed on 303 lesions in 220 patients in our hospital from February 2021 to February 2023. Of them, an ultrathin endoscope was used on 26 lesions in 23 cases. The safety and utility of an ultrathin endoscope in esophageal ESD were retrospectively verified. <b>Results</b> All 26 lesions were resected en bloc, and serious complications such as perforation, massive bleeding, or pneumonia, were not observed. Lesions were found on the anal side of the stenosis and over the scarring in 38.6% (10/26) and 50% (13/26) of participants, respectively. Moreover, 46.2% of participants (12/26) had lesions on the cervical esophagus. The total procedure time was 64.1 \u00b1 37.7 minutes, but the average time from oral incision to pocket creation was 121.2 \u00b1 109.9 seconds. <b>Conclusions</b> Ultrathin endoscopes may be useful for difficult esophageal ESD."
+            },
+            {
+                "Title": "Human vaccine candidates for infections caused by <i>Klebsiella pneumoniae</i>: A systematic review.",
+                "PMID": "39263537",
+                "Authors": [
+                    "Motamed H",
+                    "Yari F",
+                    "Javadirad E",
+                    "Golmohammadi S",
+                    "Alimoradi S",
+                    "Naleini R",
+                    "Chegene Lorestani R",
+                    "Nemati Zargaran F",
+                    "Rostamian M"
+                ],
+                "Source": "Health science reports",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "There are many difficulties in treating <i>Klebsiella pneumoniae</i>, necessitating the creation of more preventative/therapeutic measures like vaccinations. However, after numerous attempts, there is still no authorized and widely accessible vaccine. The present study aimed to systematically review published studies on <i>K. pneumoniae</i> vaccines in human subjects/samples. To find published studies, several electronic databases, including Scopus, PubMed, Web of Science, ClinicalKey, ClinicalTrials.gov, and Cochrane Library were searched without time limitation using the appropriate keywords. Studies were scrutinized, and the information from those that met our inclusion criteria was gathered and analyzed. In total, 691 studies were found, of which 14 articles were included for systematic review. Bacterial lysate containing <i>K. pneumoniae</i> was the most studied vaccine candidate. As the main indicator of human immune responses to <i>K. pneumoniae</i>, antibody responses were determined by most studies. The antigen amount, the route of immunization, and the immunization schedule were varying in the studies and were chosen based on several factors such as the disease model, the vaccine type, the vaccination setting (prophylactic or therapeutic), and so on. The majority of studies asserted that their vaccination was efficient and safe, which was demonstrated by a decrease in the rate of infections and the induction of protective antibody, cell-dependent, and/or cytokine responses. Altogether, the information provided here will help researchers examine the <i>K. pneumoniae</i> vaccine candidates more closely and take future actions that will be more consistently successful."
+            }
+        ],
+        "semantic_scholar_results": null,
+        "combined_summary": "### Summary of Recent Medical Research Papers\n\n1. **Nutritional Condition and Causes of Death in Beluga Whales**\n   - **Study Focus**: Investigated the nutritional condition of beluga whales in relation to various causes of death.\n   - **Findings**: Lower nutritional conditions were observed in belugas that died from neonatal mortality, primary starvation, and verminous pneumonia. Surprisingly, trauma-entrapment cases did not show the highest nutritional condition, challenging previous assumptions.\n   - **Implication**: Highlights the link between chronic health issues and poor nutritional status in endangered species, which may inform conservation strategies.\n\n2. **Juvenile Idiopathic Arthritis with Pulmonary Involvement**\n   - **Study Focus**: Analyzed clinical characteristics and treatment outcomes of juvenile idiopathic arthritis (JIA) patients with pulmonary complications.\n   - **Findings**: Systemic JIA was the most common subtype, with a high incidence of interstitial lung disease. Treatment included NSAIDs, glucocorticoids, DMARDs, and biological agents, with survival rates of 93.3% at 1 year and 90.0% at 5 years.\n   - **Implication**: Emphasizes the need for thorough respiratory evaluations in JIA patients to improve early detection and management of pulmonary involvement.\n\n3. **Vitamin E Intake and COVID-19**\n   - **Study Focus**: Examined the relationship between dietary vitamin E intake, lipid peroxidation markers, and C-reactive protein levels in COVID-19 patients.\n   - **Findings**: Vitamin E intake was inadequate in all patients and showed a mild correlation with malondialdehyde levels, indicating oxidative stress.\n   - **Implication**: Suggests potential nutritional interventions to mitigate oxidative stress in COVID-19 patients.\n\n4. **Mortality Risk Prediction Model for COPD**\n   - **Study Focus**: Developed a new mortality risk prediction model (VAPORED) for COPD patients using probabilistic graphical modeling.\n   - **Findings**: VAPORED outperformed existing models (BODE, ADO) in predicting mortality risk based on clinical and molecular data.\n   - **Implication**: Provides a new tool for clinicians to identify high-risk COPD patients, potentially guiding more personalized treatment strategies.\n\n5. **Necrotizing Pneumonia from Influenza A and Staphylococcus aureus Co-infection**\n   - **Study Focus**: Reported a case of necrotizing pneumonia due to co-infection with Influenza A (H1N1) and Staphylococcus aureus.\n   - **Findings**: Despite timely treatment, the patient deteriorated, highlighting the severe prognosis associated with this co-infection.\n   - **Implication**: Calls for increased awareness and vigilance regarding co-infections in pneumonia cases, especially in young adults.\n\n6. **Ultra-Early Diffuse Lung Disease in an Infant**\n   - **Study Focus**: Investigated a case of early-onset diffuse lung disease linked to a pathogenic variant in the TERT gene.\n   - **Findings**: The infant exhibited severe respiratory failure, and the TERT variant was confirmed as likely pathogenic.\n   - **Implication**: Suggests a genetic component in early-onset lung diseases, emphasizing the need for genetic screening in similar cases.\n\n7. **Surge in Mycoplasma Pneumoniae Infections in Children**\n   - **Study Focus**: Analyzed the increase in community-acquired pneumonia (CAP) cases in children post-pandemic.\n   - **Findings**: A significant rise in CAP cases was noted, particularly with Mycoplasma pneumoniae co-infections, leading to more severe clinical presentations.\n   - **Implication**: Highlights the need for updated treatment protocols and further research into the causes of increased pneumonia rates in children.\n\n8. **Mental Health and COVID-19 Vaccination Intention in Military Families**\n   - **Study Focus**: Explored factors influencing COVID-19 vaccination intention for children of military parents in Peru.\n   - **Findings**: Higher vaccination intention was associated with seeking mental health support and belonging to the Catholic faith.\n   - **Implication**: Suggests that mental health support may enhance vaccine acceptance, indicating a potential area for public health interventions.\n\n9. **Ultrathin Endoscope in Esophageal ESD**\n   - **Study Focus**: Evaluated the use of an ultrathin endoscope for esophageal endoscopic submucosal dissection (ESD).\n   - **Findings**: The ultrathin endoscope was effective in resecting lesions without serious complications, particularly in challenging cases.\n   - **Implication**: Supports the use of ultrathin endoscopes as a valuable tool in complex ESD procedures.\n\n10. **Human Vaccine Candidates for Klebsiella pneumoniae**\n    -",
+        "status": "success",
+        "time_stamp": "2024-09-12_09-33-54"
+    }
+]

@@ -1,0 +1,243 @@
+[
+    {
+        "query": "COVID-19 treatments",
+        "pubmed_results": [
+            {
+                "Title": "Fed-batch strategies for intensified rVSV vector production in high cell density cultures of suspension HEK293 cells.",
+                "PMID": "39286892",
+                "Authors": [
+                    "Silva CAT",
+                    "Kamen AA",
+                    "Henry O"
+                ],
+                "Source": "Biotechnology progress",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "17"
+                },
+                "Abstract": "Vesicular stomatitis virus (VSV) has been increasingly demonstrated as a promising viral vector platform. As the interest over this modality for vaccine and gene therapy applications increases, the need for intensified processes to produce these vectors emerge. In this study, we develop fed-batch-based operations to intensify the production of a recombinant VSV-based vaccine candidate (rVSV-SARS-CoV-2) in suspension cultures of HEK293 cells. A feeding strategy, in which a commercial concentrated medium was added to cultures based on cell growth through a fixed cell specific feeding rate (CSFR), was applied for the development of two different processes using Ambr250 modular bioreactors. Cultures operated in hybrid fed-batch/perfusion (FB/P) or fed-batch (FB) were able to sustain infections performed at 8.0\u2009\u00d7\u200910<sup>6</sup>\u2009cells/mL, respectively resulting in 3.9 and 5.0-fold increase in total yield (Y<sub>T</sub>) and 1.7 and 5.6-fold increase in volumetric productivity (VP) when compared with a batch reference. A maximum viral titer of 4.5\u2009\u00d7\u200910<sup>10</sup>\u2009TCID<sub>50</sub>/mL was reached, which is comparable or higher than other processes for VSV production in different cell lines. Overall, our study reports efficient fed-batch options to intensify the production of a rVSV-based vaccine candidate in suspension HEK293 cells."
+            },
+            {
+                "Title": "The impact of COVID-19 on hay fever treatment in Japan: A retrospective cohort study based on the Japanese claims database.",
+                "PMID": "39286886",
+                "Authors": [
+                    "Akasaki Y",
+                    "Inomata T",
+                    "Iwagami M",
+                    "Sung J",
+                    "Nagino K",
+                    "Adachi T",
+                    "Morita H",
+                    "Tamari M",
+                    "Kainuma K",
+                    "Kan-O K",
+                    "Ogata H",
+                    "Sakashita M",
+                    "Futamura M",
+                    "Kurashima Y",
+                    "Nakajima S",
+                    "Masaki K",
+                    "Ogawa Y",
+                    "Sato S",
+                    "Miyagawa A",
+                    "Midorikawa-Inomata A",
+                    "Fujimoto K",
+                    "Okumura Y",
+                    "Fujio K",
+                    "Huang T",
+                    "Hirosawa K",
+                    "Morooka Y",
+                    "Murakami A",
+                    "Nakao S"
+                ],
+                "Source": "Clinical and translational allergy",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "Hay fever (HF) presents with various symptoms, including allergic conjunctivitis and rhinitis, and requires cross-organ treatment. This study assessed the impact of the coronavirus disease 2019 (COVID-19) pandemic on HF treatment trends. This retrospective cohort study utilized data from the JMDC database collected between January 2018 and May 2021. Patients with HF were identified based on the relevant International Classification of Diseases 10th Revision diagnosis codes and the prescription of HF-related medications. The treatment approaches were compared during the cedar and cypress pollen allergy season (January to May in Japan) before and during the COVID-19 pandemic (2018 and 2019, and 2020 and 2021, respectively). This study included 2,598,178 patients with HF. The numbers of prescribed HF-related claims in 2018, 2019, 2020, and 2021 were 3,332,854, 3,534,198, 2,774,380, and 2,786,681 times, respectively. Oral second-generation antihistamine prescriptions decreased by >10% from 2019 to 2020, with a <10% change in the subsequent year. Anti-allergic eye drop prescriptions also decreased by >10% from 2019 to 2020 but increased by >10% from 2020 to 2021. Compared with 2018, 2019, and 2020, the number of claims in the rhinitis symptoms dominant group was significantly decreased in 2021 (p\u00a0<\u00a00.001, all). In contrast, the number of claims in the eye symptoms dominant group and the rhinitis and eye symptoms dominant group increased in 2021 compared with that in 2018, 2019, and 2020 (p\u00a0<\u00a00.001, all). Changes in HF treatment and related outcomes could be attributed to lifestyle modifications resulting from the COVID-19 pandemic. Measures, such as limiting outdoor activities and adopting mask-wearing practices may have influenced HF symptoms, preventive behaviors, and the overall approach to treating HF."
+            },
+            {
+                "Title": "COVID-19 in patients receiving treatment at an outpatient chemotherapy unit.",
+                "PMID": "39286869",
+                "Authors": [
+                    "Kinoshita S",
+                    "Takemoto M",
+                    "Asaoka M",
+                    "Haraguchi Y",
+                    "Adachi T",
+                    "Iida S",
+                    "Komatsu H"
+                ],
+                "Source": "Japanese journal of clinical oncology",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "17"
+                },
+                "Abstract": "During the COVID-19 pandemic period, many patients who required outpatient chemotherapy developed COVID-19, requiring chemotherapy interruption. However, there are no clear guidelines regarding the safe timing for restarting chemotherapy. We conducted a retrospective study to assess when such patients can safely recommence chemotherapy. Of the 40 patients included in this study, 34 restarted anticancer drug therapy after COVID-19 infection. Six patients, four with multiple myeloma, and one each with follicular lymphoma and glioma, remained SARS-CoV-2 antigen positive >20\u00a0days after COVID-19 onset. Multiple myeloma patients recorded significantly higher frequencies of SARS-CoV-2 antigen positivity >20\u00a0days after COVID-19 onset compared with solid tumor patients, with no significant differences in the frequency of SARS-CoV-2 positivity during 5-20\u00a0days from COVID-19 onset between them. According to our data, most solid tumor patients achieved SARS-CoV-2 antigen negativity after 20\u00a0days from COVID-19 onset. On the other hand, multiple myeloma patients might need serial antigen tests before restarting anticancer therapy in the outpatient chemotherapy setting."
+            },
+            {
+                "Title": "Uptake, adverse effect, and associated factors of COVID-19 vaccine among those living with human immunodeficiency virus, at Bole sub-city health facility Addis Ababa, Ethiopia.",
+                "PMID": "39286864",
+                "Authors": [
+                    "Seid S",
+                    "Gebru Gebremeskel T"
+                ],
+                "Source": "Human vaccines & immunotherapeutics",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Dec",
+                    "Day": "31"
+                },
+                "Abstract": "COVID-19 vaccination in African people living with human immunodeficiency virus remains understudied, with limited research in Ethiopia that fails to consider contextual differences. To assess uptake, adverse effects, and associated factors of COVID-19 vaccine among PLWHA in Addis Ababa, Ethiopia, 2022. An institutional cross-sectional study design was employed among 404 participants. Sample selected by systematic random sampling technique. Descriptive and inferential statistical analyses were carried out. Finally, results were presented using Crude Odd Ratio, Adjusted Odd Ratio, and 95% Confidence Interval. Result: Out of all participants, 79% (314) received at least one dose of any type of COVID-19 vaccine, with varying percentages taking one (29.3%), two (50.3%), and three (20.4%) doses of the vaccine. Being knowledgeable (moderate and good) (AOR\u2009=\u20090.06, 95% CI: 0.01, 0.5) and medium attitude (AOR\u2009=\u20091.1, 95% CI: 0.7, 1.3) had a statistically significant association with the uptake of the COVID-19 vaccine. The prevalence of adverse events was 27.8% (110). More than three-quarters of participants were vaccinated for the COVID-19 vaccine. Moderate knowledge and medium attitude have a significant association with the uptake of the COVID-19 vaccine. Nearly a quarter of participants experienced adverse events related to COVID-19. Continued efforts are essential to overcome barriers to achieving full vaccination coverage for the most vulnerable in low-income countries. Addressing hesitancy, monitoring side effects, and implementing effective communication and strategies are crucial for widespread COVID-19 vaccination and public health safety in these regions."
+            },
+            {
+                "Title": "A cross-sectional study on the understanding and attitudes toward influenza and influenza vaccines among different occupational groups in China.",
+                "PMID": "39286861",
+                "Authors": [
+                    "Zhao X",
+                    "Hu X",
+                    "Wang J",
+                    "Shen M",
+                    "Zhou K",
+                    "Han X",
+                    "Thomas M",
+                    "Wang K",
+                    "Wang L",
+                    "Wang Z"
+                ],
+                "Source": "Human vaccines & immunotherapeutics",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Dec",
+                    "Day": "31"
+                },
+                "Abstract": "This study aimed to assess the level of knowledge regarding influenza viruses and vaccines among different professional groups to investigate the reasons for vaccine hesitancy. We collected 2190 questionnaires regarding influenza vaccines in China in 2022. The respondents were categorized into the general population (GP), foreign affairs workforce population (FAWP), and veterinary workforce population (VWP) according to their job positions. Linear regression was used to assess the association between multiple factors and influenza vaccination rates. The association between work and influenza vaccination rates was also assessed by grouping different workforce populations. The vaccination rate of the GP was higher than that of the VWP (odds ratio: 1.342, 95% confidence interval: 1.025-1.853), surpassing the rates reported in previous studies. This may be attributed to heightened concerns about infectious diseases influenced by the ongoing coronavirus disease 2019 pandemic. Despite the VWP's more in-depth knowledge of the VWP on zoonotic diseases and their recognition of their importance, there was no significant difference in influenza knowledge among the three populations. This discrepancy contrasts with the observed differences in vaccination rates. Further investigation revealed that, compared with FAWP, the price of vaccines emerged as a primary influencing factor for vaccination rates (odds ratio:0.398, 95%CI; 0.280-0.564). General concerns regarding the protective effects and side effects of vaccines were also noted."
+            },
+            {
+                "Title": "Changes in the epidemiological patterns of respiratory syncytial virus and human metapneumovirus infection among pediatric patients and their correlation with severe cases: a long-term retrospective study.",
+                "PMID": "39286815",
+                "Authors": [
+                    "Kuang L",
+                    "Xu T",
+                    "Wang C",
+                    "Xie J",
+                    "Zhang Y",
+                    "Guo M",
+                    "Liang Z",
+                    "Zhu B"
+                ],
+                "Source": "Frontiers in cellular and infection microbiology",
+                "PublicationDate": {
+                    "Year": "2024"
+                },
+                "Abstract": "We aim to investigate the prevalence of respiratory syncytial virus (RSV) and human metapneumovirus (hMPV) among pediatric patients with acute respiratory tract illness (ARTI) in southern China both pre- and post-COVID-19 pandemic, as well as identify associated risk factors for severe infections. The study conducted a real-time PCR analysis on hospitalized children with ARTI from 2012 to 2023, specifically targeting RSV, hMPV, and other respiratory pathogens. Additionally, demographic data was collected during this analysis. The prevalence of RSV occurs triennially, and likewise, the temporal pattern of hMPV outbreaks mirrors that of RSV. The peak infection rates of RSV and hMPV occurred during and following the implementation of COVID-19 epidemic prevention and control measures. The incidence of RSV infection exhibited bimodal peaks in 2022, while hMPV demonstrated seasonal peaks during the spring, fall, and winter periods post-COVID-19 pandemic. After the COVID-19 outbreak, there has been an upward trend in the proportion of female patients and patients aged one year and older presenting with ARTI, RSV infections, and hMPV infections. Infant (OR = 4.767, 95%CI: [3.888-5.846], <i>p</i> < 0.0001), presence of co-infection (OR = 0.540, 95%CI: [0.404-0.722], <i>p</i> < 0.0001), and existence of comorbidities (OR = 1.582, 95%CI: [1.285-1.949], <i>p</i> < 0.0001) was the risk ratio for the severity of RSV infection. Children infected with hMPV under the age of 1 year (OR = 0.322, 95%CI: [0.180 - 0.575], <i>p</i> < 0.0001), as well as those with comorbidities (OR = 8.809, 95%CI: [4.493 - 17.272], <i>p</i> < 0.0001), have a higher risk of developing severe illness. The changing epidemiological patterns have the potential to lead to widespread severe outbreaks among children, particularly those with underlying medical conditions who may experience more severe symptoms. Conducting surveillance for <i>pneumoviridae</i> viruses in children is an imperative measure to establish a robust foundation for future epidemic prevention and treatment strategies."
+            },
+            {
+                "Title": "Mitigating COVID-19 in meat processing plants: what have we learned from cluster investigations?",
+                "PMID": "39286744",
+                "Authors": [
+                    "Kooh P",
+                    "Guillois Y",
+                    "Federighi M",
+                    "Pivette M",
+                    "Maillard AL",
+                    "Luong NM",
+                    "Chaix E"
+                ],
+                "Source": "Frontiers in public health",
+                "PublicationDate": {
+                    "Year": "2024"
+                },
+                "Abstract": "Several COVID-19 outbreaks have been reported in meat processing plants in different countries. The aim of this study was to assess the environmental and socio-economic risk factors favouring the transmission of SARS-CoV-2 in meat processing plants and to describe the prevention measures implemented. Data from epidemiological investigations of COVID-19 clusters in France, the scientific literature, structured interviews and site visits were collected and summarised to investigate the main risk factors for SARS-CoV-2 infection in meat processing plants, including determinants within and outside the workplace. An increased risk of infection was identified among workers with unfavourable socio-economic status (temporary/non-permanent workers, migrants, ethnic minorities, etc.), possibly related to community activities (house-sharing, car-sharing, social activities). Working conditions (proximity between workers) and environmental factors (low temperatures and inadequate ventilation) also appear to be important risk factors. These environmental conditions are particularly prevalent in cutting and boning plants, where the majority of reported cases are concentrated. Preventive measures applied included screening for COVID-19 symptoms, testing, wearing masks, increased hygiene and sanitation, physical and temporal distancing, control of ventilation. Certain food safety hygiene measures were compatible with protecting workers from SARS-CoV-2. The hygiene culture of agri-food workers made it easier to implement preventive measures after adaptation. This study made it possible to identify the environmental and socio-economic factors conducive to the transmission of SARS-CoV-2 in meat processing plants. The knowledge gained from this work was used in simulations to understand the transmission of the virus in the plants."
+            },
+            {
+                "Title": "How the COVID-19 pandemic reshaped telepsychology: Insights from an Italian survey.",
+                "PMID": "39286608",
+                "Authors": [
+                    "Ruggiero F",
+                    "Zirone E",
+                    "Mellace D",
+                    "Capetti B",
+                    "Molisso MT",
+                    "Ferrucci R",
+                    "Barbieri S",
+                    "Di Guida L",
+                    "Pizzo S",
+                    "Mameli F"
+                ],
+                "Source": "Internet interventions",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Dec"
+                },
+                "Abstract": "The coronavirus disease 2019 (COVID-19) pandemic rapidly boosted the introduction of certain changes in mental healthcare services, consequently driving up the adoption of remote care delivery options. We conducted an online Italian survey to evaluate telepsychology use, attitudes, acceptance, and training needs, as well as to understand patient-professional interactions in video-consultations, aiming to inform future mental healthcare practices and policies. The current study's survey responses were collected using an anonymous, self-reported questionnaire on the 'REDCap' platform from 25 October 2022 to 26 July 2023. In total, 128 mental health professionals and 113 patients completed the survey. In our sample, 69\u00a0% of patients and 79.7\u00a0% of mental health professionals reported having used telepsychology during COVID-19 pandemic; in particular, 84.6\u00a0% of patients and 95.1\u00a0% of professionals selected video-consultation modality. Data showed that participants expressed high satisfaction with this communication tool. The increase in satisfaction was directly proportional to increase in the quality of interactions and in relation to the quality of the experiences. The critical factors influencing the video-consultation experience include communication style, information completeness, patient-centredness, and the comfort underscoring the central role of the professional-patient relationship, which, substantially, remains a key element in the psychological treatment process. These findings reinforce the need for continued refinement and expansion of telepsychology services, thus highlighting the potential for integrating innovative technologies into mental health practise."
+            },
+            {
+                "Title": "Impact of COVID-19 on MOUD retention in a sample of rural primary care patients: A secondary analysis of electronic health records.",
+                "PMID": "39286538",
+                "Authors": [
+                    "Calhoun S",
+                    "Guo H",
+                    "Fei Z",
+                    "Lin C",
+                    "Clingan SE",
+                    "Zhu Y",
+                    "Mooney LJ",
+                    "Hser YI"
+                ],
+                "Source": "Drug and alcohol dependence reports",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "There is limited research examining factors impacting MOUD retention in rural settings, especially within the context of the COVID-19 pandemic. Using electronic health records data collected as part of a NIDA Clinical Trials Network study (CTN-0102), this study explored how the onset of the COVID-19 pandemic may have impacted MOUD retention in a sample of 563 rural primary care patients. Cox regression model was applied to examine if COVID-19 was related to treatment retention, controlling for demographics, clinic, insurance type, and other diagnoses. The independent variable was the number of days between the patient's first MOUD prescription date during the pre-COVID observation period (10/1/2019-3/13/2020) and the start of the COVID-19 pandemic. The dependent variable was retention on MOUD, defined as the time from the first MOUD prescription documented during the pre-COVID observation period to the first break in consecutive MOUD prescriptions (right censored at 180 days). The findings demonstrated that there was a reduced risk of a prescription break for every 10-day increase in the time from the first documented MOUD prescription to the onset of the COVID-19 pandemic (HR = 0.96, 95\u2009% CI = 0.92-0.99; <i>p</i> = 0.011). While the data did not include complete treatment histories to determine who was new to MOUD treatment, the findings suggest that patients whose first documented MOUD prescription in the dataset was closer to the onset of the pandemic had a greater likelihood of experiencing retention challenges. This underscores the importance for clinics to establish comprehensive contingency plans for future emergencies to ensure uninterrupted MOUD treatment and support, particularly for individuals in the early stabilization phase of their recovery."
+            },
+            {
+                "Title": "Low booster uptake in cancer patients despite health benefits.",
+                "PMID": "39286512",
+                "Authors": [
+                    "Figueiredo JC",
+                    "Levy J",
+                    "Choi SY",
+                    "Xu AM",
+                    "Merin NM",
+                    "Hamid O",
+                    "Lemos T",
+                    "Nguyen N",
+                    "Nadri M",
+                    "Gonzalez A",
+                    "Mahov S",
+                    "Darrah JM",
+                    "Gong J",
+                    "Paquette RL",
+                    "Mita AC",
+                    "Vescio RA",
+                    "Salvy SJ",
+                    "Mehmi I",
+                    "Hendifar AE",
+                    "Natale R",
+                    "Tourtellotte WG",
+                    "Ramanujan VK",
+                    "Huynh CA",
+                    "Sobhani K",
+                    "Reckamp KL",
+                    "Merchant AA"
+                ],
+                "Source": "iScience",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "20"
+                },
+                "Abstract": "Patients with cancer are at increased risk of death from COVID-19 and have reduced immune responses to SARS-CoV2 vaccines, necessitating regular boosters. We performed comprehensive chart reviews, surveys of patients attitudes, serology for SARS-CoV-2 antibodies and T\u00a0cell receptor (TCR) \u03b2 sequencing for cellular responses on a cohort of 982 cancer patients receiving active cancer therapy accrued between\u00a0November-3-2020 and Mar-31-2023. We found that 92 \u00b7 3% of patients received the primer vaccine, 70 \u00b7 8% received one monovalent booster, but only 30 \u00b7 1% received a bivalent booster. Booster uptake was lower under age 50, and among African American or Hispanic patients. Nearly all patients seroconverted after 2+ booster vaccinations (>99%) and improved cellular responses, demonstrating that repeated boosters could overcome poor response to vaccination. Receipt of booster vaccinations was associated with a lower risk of all-cause mortality (HR\u00a0= 0 \u00b7 61, <i>p</i>\u00a0= 0 \u00b7 024). Booster uptake in high-risk cancer patients remains low and strategies to encourage booster uptake are needed."
+            }
+        ],
+        "semantic_scholar_results": null,
+        "combined_summary": "### Summary of Recent Medical Research Papers\n\n1. **Fed-batch Strategies for rVSV Vector Production**\n   - **Study Focus**: Development of fed-batch operations to enhance production of a recombinant VSV-based vaccine candidate (rVSV-SARS-CoV-2) in HEK293 cells.\n   - **Key Findings**: Implementing a feeding strategy resulted in significant increases in total yield (3.9 to 5.0-fold) and volumetric productivity (1.7 to 5.6-fold) compared to batch processes. A maximum viral titer of 4.5 \u00d7 10^10 TCID50/mL was achieved.\n   - **Implications**: This study provides efficient methods for producing viral vectors, which are crucial for vaccine and gene therapy applications.\n\n2. **Impact of COVID-19 on Hay Fever Treatment in Japan**\n   - **Study Focus**: Analyzing treatment trends for hay fever during the COVID-19 pandemic using a large claims database.\n   - **Key Findings**: A notable decrease in prescriptions for antihistamines and anti-allergic eye drops was observed during the pandemic, with a shift in symptom dominance affecting treatment approaches.\n   - **Implications**: Lifestyle changes due to COVID-19 may have influenced hay fever symptoms and treatment, highlighting the need for adaptive treatment strategies.\n\n3. **COVID-19 in Outpatient Chemotherapy Patients**\n   - **Study Focus**: Evaluating the timing for resuming chemotherapy in patients who contracted COVID-19.\n   - **Key Findings**: Most solid tumor patients tested negative for SARS-CoV-2 after 20 days, while multiple myeloma patients showed prolonged positivity, necessitating serial testing before resuming therapy.\n   - **Implications**: Guidelines for safely restarting chemotherapy in COVID-19 patients, particularly those with hematological malignancies, are essential.\n\n4. **COVID-19 Vaccine Uptake Among HIV Patients in Ethiopia**\n   - **Study Focus**: Assessing COVID-19 vaccine uptake and adverse effects among people living with HIV.\n   - **Key Findings**: 79% of participants received at least one vaccine dose, with moderate knowledge and attitudes significantly influencing uptake. Adverse events were reported in 27.8% of cases.\n   - **Implications**: Addressing vaccine hesitancy and monitoring side effects are crucial for improving vaccination rates in vulnerable populations.\n\n5. **Understanding Influenza Vaccination Attitudes in China**\n   - **Study Focus**: Investigating knowledge and attitudes toward influenza vaccines among various occupational groups.\n   - **Key Findings**: The general population had higher vaccination rates compared to veterinary workers, influenced by concerns about vaccine costs and efficacy.\n   - **Implications**: Targeted educational interventions may be necessary to improve vaccination rates among specific occupational groups.\n\n6. **Epidemiological Patterns of RSV and hMPV in Pediatrics**\n   - **Study Focus**: Examining the prevalence of RSV and hMPV infections in children pre- and post-COVID-19.\n   - **Key Findings**: Changes in infection patterns were noted, with increased severity in infants and those with comorbidities.\n   - **Implications**: Enhanced surveillance and preventive measures are needed to address the rising incidence of severe respiratory infections in children.\n\n7. **COVID-19 in Meat Processing Plants**\n   - **Study Focus**: Identifying risk factors for COVID-19 transmission in meat processing facilities.\n   - **Key Findings**: Socio-economic factors and working conditions significantly contributed to infection rates. Effective preventive measures were implemented.\n   - **Implications**: Understanding these factors can inform better safety protocols in similar high-risk environments.\n\n8. **Telepsychology During COVID-19 in Italy**\n   - **Study Focus**: Evaluating the adoption and effectiveness of telepsychology services during the pandemic.\n   - **Key Findings**: High satisfaction rates were reported among both patients and professionals, emphasizing the importance of communication quality in remote consultations.\n   - **Implications**: Continued development of telepsychology services is essential for future mental health care delivery.\n\n9. **Impact of COVID-19 on MOUD Retention in Rural Patients**\n   - **Study Focus**: Analyzing the effects of the COVID-19 pandemic on medication for opioid use disorder (MOUD) retention.\n   - **Key Findings**: Patients closer to the pandemic onset faced greater retention challenges, highlighting the need for contingency plans in rural healthcare settings.\n   - **Implications**: Strategies to ensure uninterrupted MOUD treatment are critical, especially during emergencies.\n\n10. **Low Booster Uptake in Cancer Patients**\n    - **Study Focus**: Investigating COVID-19 booster vaccination rates among cancer patients.\n    - **Key Findings**: Despite high seroconversion rates, only 30.1% received a bivalent booster, with lower uptake among younger and minority patients.",
+        "status": "success",
+        "time_stamp": "2024-09-17_18-31-50"
+    }
+]

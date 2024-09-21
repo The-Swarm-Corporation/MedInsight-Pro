@@ -1,0 +1,194 @@
+[
+    {
+        "task": "COVID-19 treatments",
+        "query_agent_analysis": {
+            "analysis_of_request": "The request is focused on finding information related to the treatment options for COVID-19, which is caused by the SARS-CoV-2 virus. This involves understanding the various therapeutic approaches, including antiviral drugs, supportive care, and potential new treatments that have been researched or are under investigation.",
+            "pubmed_query": "COVID-19 treatment OR SARS-CoV-2 treatment OR coronavirus treatment AND (antiviral OR supportive care OR therapeutics OR clinical trials)"
+        },
+        "pubmed_results": [
+            {
+                "Title": "JG26 attenuates ADAM17 metalloproteinase-mediated ACE2 receptor processing and SARS-CoV-2 infection in vitro.",
+                "PMID": "39292373",
+                "Authors": [
+                    "Gentili V",
+                    "Beltrami S",
+                    "Cuffaro D",
+                    "Cianci G",
+                    "Maini G",
+                    "Rizzo R",
+                    "Macchia M",
+                    "Rossello A",
+                    "Bortolotti D",
+                    "Nuti E"
+                ],
+                "Source": "Pharmacological reports : PR",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "18"
+                },
+                "Abstract": "ADAM17 is a metalloprotease implicated in the proteolysis of angiotensin-converting enzyme 2 (ACE2), known to play a critical role in the entry and spread of SARS-CoV-2. In this context, ADAM17 results as a potential novel target for controlling SARS-CoV-2 infection. In this study, we investigated the impact on ACE2 surface expression and the antiviral efficacy against SARS-CoV-2 infection of the selective ADAM17 inhibitor JG26 and its dimeric (compound 1) and glycoconjugate (compound 2) derivatives using Calu-3 human lung cells. None of the compounds exhibited cytotoxic effects on Calu-3 cells up to a concentration of 25 \u00b5M. Treatment with JG26 resulted in partial inhibition of both ACE2 receptor shedding and SARS-CoV-2 infection, followed by compound 1. JG26, an ADAM17 inhibitor, demonstrated promising antiviral activity against SARS-CoV-2 infection, likely attributed to reduced sACE2 availability, thus limiting viral dissemination."
+            },
+            {
+                "Title": "[Fatigue and sensorimotor instability : Neurologically controlled conversion of post-COVID-19 patients].",
+                "PMID": "39292241",
+                "Authors": [
+                    "Urban T",
+                    "Reinhardt F",
+                    "Lohse P",
+                    "Spitzer SG",
+                    "Rasche L",
+                    "Reichmann H"
+                ],
+                "Source": "Der Nervenarzt",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "18"
+                },
+                "Abstract": "For the treatment of the symptoms of post-COVID-19 syndrome, no causal therapy is currently widely recommended according to evidence-based criteria. The overarching goal of the intervention study over a\u00a03-year period (Q1-2021-Q4-2023) was to evaluate the changes in the key symptoms of fatigue and sensorimotor instability through individualized stress-controlled training therapy and through intensified cognitive behavioral therapy. In the 3\u2011year period 407 vaccinated nucleocapsid positive patients were treated at the Post-COVID-19 Center Lausitz (Senftenberg). In 78\u00a0(around 19%) fatigue/immunometabolic depression and sensorimotor instability were identified as the leading syndromes. The evaluation of the individualized stress-controlled training therapy was based on the specific post-COVID-19 syndrome and motor fatigue parameters. The secondary psychosomatic syndrome was assessed using cognitive fatigue parameters and cognitive behavioral therapy instruments. The investigation of -parameters influencing behavior took place in Q2-2023-Q4-2023 with a\u00a0guide-supported qualitative interview among the participants. The post-COVID-19 key symptoms \"fatigue,\" \"sensorimotor instability,\" \"neuropsychiatric symptoms,\" \"cardiac/autonomic dysfunction,\" and \"pain\" improved significantly in the overall cohort and in the gender-specific analysis. A\u00a0deterioration occurred in \"secondary psychosomatic symptoms\". A\u00a0therapeutic effect was demonstrated for all motor fatigue parameters for the entire cohort using the Cohen's d\u00a0value. An intensification of cognitive behavioral therapy achieved positive effects through an increasing development of the patients' own activity and their self-control using persuasion and gamification."
+            },
+            {
+                "Title": "Reduction of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variant infection by blocking the epidermal growth factor receptor (EGFR) pathway.",
+                "PMID": "39291996",
+                "Authors": [
+                    "Han Y",
+                    "Kim S",
+                    "Park T",
+                    "Hwang H",
+                    "Park S",
+                    "Kim J",
+                    "Pyun J-c",
+                    "Lee M"
+                ],
+                "Source": "Microbiology spectrum",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "18"
+                },
+                "Abstract": "The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants presents challenges in global efforts to transition from the pandemic to an endemic stage. The spike protein of the SARS-CoV-2 virus, which is pivotal for cell entry, exhibits significant mutations in its variants, potentially affecting infectivity and therapeutic efficacy. Recent findings indicate upregulation of the epidermal growth factor receptor (EGFR) pathway, a key target in cancer therapy, by the spike protein of SARS-CoV-2. This study aimed to investigate the activity of the EGFR pathway against SARS-CoV-2 variants and to assess the inhibitory effects of EGFR inhibitors using SARS-CoV variant pseudoviral particles to guide future therapeutic strategies. Omicron variant SARS-CoV pseudoviral particles exhibited heightened infectivity in human angiotensin-converting enzyme 2 (hACE2)-expressing HEK293 and A549 lung cancer cells accompanied by increased EGFR pathway activation in infected cells. Using the EGFR tyrosine kinase inhibitor, osimertinib, we observed a reduction in viral infection rates in hACE2-HEK293 and A549 cells infected with the SARS-CoV-2 variant pseudoviral particles. We conducted further experiments to confirm that the reduction in infection efficacy with osimertinib treatment was not associated to a decrease in cell viability. Furthermore, this inhibitory effect of osimertinib in cell lines was corroborated in a spheroid cell culture model derived from hACE2-A549 cells. These findings suggest the potential application of EGFR-targeted antiviral therapy against highly infectious SARS-CoV-2 variants.IMPORTANCEThe emergence of novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) variants is concerning as vaccines designed for one variant need not essentially protect against other novel variants. Therefore, there is an urgent need to identify therapies that can act against multiple novel variants that have heightened virulence compared with the wild type. It has been reported that the spike protein of the SARS-CoV-2 virus elicits an increased expression of the epidermal growth factor receptor (EGFR) pathway. We used this information and examined whether treatment with an EGFR inhibitor, osimertinib, which is already approved for clinical use in cancer therapy, can reduce the infection caused by SARS-CoV-2, wild type, and Omicron and Delta variants, in two cell lines and one spheroid model. The results showed that osimertinib treatment successfully reduced infection efficacy, particularly in variants, and that this effect was not related to a reduction in cell viability, making this a promising strategy for treating SARS-CoV-2 infections."
+            },
+            {
+                "Title": "[Intensive care and priority setting during catastrophe or war].",
+                "PMID": "39291581",
+                "Authors": [
+                    "Sandman L",
+                    "Gustavsson E"
+                ],
+                "Source": "Lakartidningen",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "17"
+                },
+                "Abstract": "In this article we discuss some ethically and legally controversial issues in the Swedish priority guidelines for intensive care during the recent covid pandemic. We show how the Swedish ethics platform for priority setting constitutes a robust starting point for such guidance, but that there is a lack of detail leaving some of the more challenging situations without explicit guidance. To provide guidance, which we have reason to do in order to avoid inequality and arbitrariness, we should try to interpret the ethics platform, based on how it is applied in practice together with ethical reasoning. In this article, we illustrate this by focusing on contested guidance concerning biological age when distributing scarce intensive care beds. We conclude that biological age should be interpreted in terms of long-term survival. We also conclude that the ethical platform does not provide guidance in these challenging situations, but needs interpretation. Therefore, there is a need of a legal overview of the principles in order to create an even stronger basis for support in the future."
+            },
+            {
+                "Title": "[How Region S\u00f6rmland dealt with Covid-19 in 2020-2021].",
+                "PMID": "39291580",
+                "Authors": [
+                    "Castegren M"
+                ],
+                "Source": "Lakartidningen",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "17"
+                },
+                "Abstract": "In Region S\u00f6rmland, the burden of critical illness during the first wave of Covid-19 in april 2020 lead to a 25-fold increase in the number of patients requiring invasive mechanical ventilation. The decision was made that quantity should be prioritised before individual quality. This led to a highly standardised care during the intensive care period. All patients admitted to any of the county's three hospitals were assessed as regarded their ability to survive invasive mechanical ventilation. The assessment was based on the Charlson Age-adjusted Comorbidity Index and the Clinical Frailty Scale. Of all >2000 admitted patients with Covid-19, 37% were assessed as not to benifit from mechanical ventilation. The outcome of intensive care patients was very good in Region S\u00f6rmland compared to the rest of Sweden, with a 30-day mortality rate of 14% following intensive care. The outcome after Covid-19-associated intensive care in Sweden differed highly between ICUs, with a span of 7-58% 30-day mortality rate."
+            },
+            {
+                "Title": "A Retrospective Cohort Observational Study to Assess the Efficacy of Monoclonal Antibody in Coronavirus Disease 2019 Patients.",
+                "PMID": "39291521",
+                "Authors": [
+                    "Shah L",
+                    "Tamboli A",
+                    "Phalgune D",
+                    "Badave A",
+                    "Chendke P"
+                ],
+                "Source": "The Journal of the Association of Physicians of India",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "There are no studies examining the use of monoclonal antibodies in hospitalized coronavirus disease 2019 (COVID-19) patients within the Indian population. To determine the efficacy of monoclonal antibodies in hospitalized COVID-19 patients. This retrospective cohort observational study was conducted from June 2021 to March 2022 in the Department of Critical Care Medicine at a tertiary care hospital in Pune, Maharashtra, India. The study included two cohorts of COVID-19 patients-a study group that received casirivimab/imdevimab infusion and a control group that did not receive monoclonal antibodies. The primary outcome measure was the assessment of the saturation of peripheral oxygen (SpO<sub>2</sub>) to the fraction of inspired oxygen (FiO<sub>2</sub>) ratio. Secondary outcome measures included the need for the intensive care unit (ICU) admission and mechanical ventilation, duration of hospital stay, and inhospital mortality. The mean SpO<sub>2</sub> on admission and discharge, as well as the mean SpO<sub>2</sub>/FiO<sub>2</sub> ratio, were comparable between the two groups. No significant differences were found in the requirements for oxygen therapy, high-flow nasal cannula (HFNC), noninvasive ventilation (NIV), invasive ventilation, ICU admission, registered respiratory therapist (RRT) needs, or mortality rates between the two groups. Additionally, the median duration of hospital and ICU stay did not differ significantly between the groups. Casirivimab/imdevimab therapy did not show a beneficial effect on the outcomes of hospitalized COVID-19 patients."
+            },
+            {
+                "Title": "Design Criteria of Shelter Hospitals in Response to Biological Accidents: A Systematic Review.",
+                "PMID": "39291335",
+                "Authors": [
+                    "Moradi M",
+                    "Sharififar S",
+                    "Zareiyan A",
+                    "Hoseyni Shokuh SJ",
+                    "Nasiri A"
+                ],
+                "Source": "Disaster medicine and public health preparedness",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "18"
+                },
+                "Abstract": "The appropriate response to mass causality biological events requires well-established preparedness and providing a surge capacity. In such a situation, a practical solution is to convert large public venues into shelter hospitals. Due to the lack of a guideline for the transformation of a large public center into a hospital, the present study collected the design criteria for the transformation of public buildings into shelter hospitals in response to biological events such as epidemics or mass causality biological accidents. The keywords were searched in Scopus, Web of Science, and PubMed databases until November 2021. This systematic review was conducted using terms related to mass causality biological accidents, shelter hospitals, and design criteria. Of 1802 extracted articles, duplicates (<i>n</i> = 280) and unrelated publications (<i>n</i> = 1342) were left out in the initial evaluation. Among 180 remained papers, 29 records satisfied our criteria after reviewing abstracts and full texts. Most of the included studies were related to the transformation of public venues into hospitals in response to the coronavirus disease 2019 (COVID-19) pandemic. The investigated themes included site selection, layout and structure, waste and wastewater management, ventilation, communication, food and medicine delivery, humanitarians and social supports, post-treatment care, and Management measures. In summary, large public venues are highly recommended alternatives for surge capacity in response to mass causality biological accidents. However, the main challenges for using these centers are the provision of basic requirements such as water and electricity, ventilation, and available space."
+            },
+            {
+                "Title": "Evaluating TRAIL and IP-10 alterations in vaccinated pregnant women after COVID-19 diagnosis and their correlation with neutralizing antibodies.",
+                "PMID": "39290698",
+                "Authors": [
+                    "Chen WC",
+                    "Hu SY",
+                    "Cheng CM",
+                    "Shen CF",
+                    "Chuang HY",
+                    "Ker CR",
+                    "Sun DJ",
+                    "Shen CJ"
+                ],
+                "Source": "Frontiers in immunology",
+                "PublicationDate": {
+                    "Year": "2024"
+                },
+                "Abstract": "This study evaluates tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) and interferon-\u03b3-induced protein-10 (IP-10) in pregnant women with COVID-19 and their newborns, exploring the effects of antiviral treatments and vaccine-induced neutralizing antibody (Nab) inhibition on these key viral infection biomarkers. We studied 61 pregnant women with past COVID-19 and either three (n=56) or four (n=5) doses of vaccination, and 46 without COVID-19 but vaccinated. We analyzed them and their newborns' blood for TRAIL, IP-10, and Nab levels using enzyme-linked immunosorbent assays (ELISA), correlating these with other clinical factors. Our study found lower TRAIL but higher IP-10 levels in maternal blood than neonatal cord blood, irrespective of past COVID-19 diagnosis. Cases diagnosed with COVID-19 < 4 weeks previously had higher maternal blood TRAIL levels (16.49 vs. 40.81 pg/mL, p=0.0064) and IP-10 (154.68 vs. 225.81 pg/mL, p=0.0170) than those never diagnosed. Antiviral medication lowered TRAIL and IP-10 in maternal blood without affecting Nab inhibition (TRAIL: 19.24 vs. 54.53 pg/mL, p=0.028; IP-10: 158.36 vs. 255.47 pg/mL, p=0.0089). TRAIL and IP-10 levels were similar with three or four vaccine doses, but four doses increased Nab inhibition (p=0.0363). Previously COVID-19 exposed pregnant women had higher Nab inhibition (p < 0.0001). No obvious correlation was found among TRAIL, IP-10, and Nab inhibition level. Our study suggests that lower maternal TRAIL and higher IP-10 levels compared to neonatal cord blood coupled with a rise in both markers following COVID-19 diagnosis that could be reduced by antivirals indicates a correlation to infection severity. Higher vaccine doses enhance Nab inhibition, irrespective of antiviral medication use and independent of TRAIL or IP-10 levels, highlighting the significance and safety of adequate vaccination and antiviral use post-diagnosis in pregnant women."
+            },
+            {
+                "Title": "Long COVID or Post-Acute Sequelae of SARS-CoV-2 Infection (PASC) and the Urgent Need to Identify Diagnostic Biomarkers and Risk Factors.",
+                "PMID": "39289865",
+                "Authors": [
+                    "Parums DV"
+                ],
+                "Source": "Medical science monitor : international medical journal of experimental and clinical research",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep",
+                    "Day": "18"
+                },
+                "Abstract": "Long COVID, or post-acute sequelae of SARS-CoV-2 infection (PASC), also known as post-COVID-19 condition or post-COVID syndrome, can affect anyone infected with SARS-CoV-2, regardless of age or the severity of the initial symptoms of COVID-19. Long COVID/PASC is the continuation or development of new symptoms after three months from the initial SARS-CoV-2 infection, which lasts for at least two months and has no other identifiable cause. Long COVID/PASC occurs in 10-20% of patients infected with SARS-CoV-2. The most common symptoms include fatigue, cognitive impairment (brain fog), and shortness of breath. However, more than 200 symptoms have been reported. No phenotypic or diagnostic biomarkers have been identified for developing long COVID/PASC, which is a multisystem disorder that can present with isolated or combined respiratory, hematological, immunological, cardiovascular, and neuropsychiatric symptoms. There is no cure. Therefore, individualized patient management requires a multidisciplinary clinical approach. Because millions of people have had and continue to have COVID-19, even in the era of vaccination and antiviral therapies, long COVID/PASC is now and will increasingly become a health and economic burden that the world must prepare for. Almost five years from the beginning of the COVID-19 pandemic, this article aims to review what is currently known about long COVID/PASC, the anticipated increasing global health burden, and why there is still an urgent need to identify diagnostic biomarkers and risk factors to improve prevention and treatment."
+            },
+            {
+                "Title": "A Role-Needs Framework: Rethinking Support for Informal Caregivers for Alzheimer's Across the Global South and Global North.",
+                "PMID": "39289861",
+                "Authors": [
+                    "Knight F",
+                    "Ridge D",
+                    "Loveday C",
+                    "Weidner W",
+                    "Roeser J",
+                    "Halton C",
+                    "Cartwright T"
+                ],
+                "Source": "International journal of geriatric psychiatry",
+                "PublicationDate": {
+                    "Year": "2024",
+                    "Month": "Sep"
+                },
+                "Abstract": "Caregivers play an essential role in supporting people with Alzheimer's disease globally. User-informed research is vital to developing trans-cultural guidelines for dementia support organisations. While coping strategies of caregivers are well researched, the 'coping-effectiveness' framework falls short of representing all caregiver needs. Our aim was to develop a robust and inclusive, globally applicable framework of caregiver-informed support needs. In partnership with Alzheimer's Disease International and Roche, we conducted qualitative online semi-structured interviews with 34 family caregivers from the Global North (UK, US) and Global South (Brazil, South Africa) in the COVID-19 context. Participant-generated photographs helped encourage discussions of hidden contextual issues. Iterative inductive narrative analysis of interviews and photographs was carried out with input from global and national charity and industry sectors. We identified a framework of four cross-cultural caring approaches with implications for support: (1) Empathising, using emotion-focused strategies to develop strong expertise and coping skills, with time specific information, psychosocial and peer support needs. (2) Organising, using problem-focused strategies, with strong narratives of expertise and advocacy which benefited from early structured information and professional confirmation. (3) Non-identifying caregiving, where daily aspects of caring occurred without specialist knowledge and expertise, and caregivers sought assistance in managing disease-related support. (4) Reluctance, where struggling with unwanted caring responsibilities meant caregivers looked to professionals to carry out daily care. Our findings move beyond the 'coping-effectiveness' framework of support to suggest a novel 'role-needs' framework. Our approach supports inclusive ways of tailoring support to fit individual caregiver circumstances globally."
+            }
+        ],
+        "semantic_scholar_results": null,
+        "combined_summary": "### Summary of Recent Medical Research Papers\n\n1. **JG26 and SARS-CoV-2 Infection**  \n   - **Study**: Investigated the selective ADAM17 inhibitor JG26 and its derivatives on ACE2 receptor processing and SARS-CoV-2 infection in Calu-3 lung cells.  \n   - **Findings**: JG26 partially inhibited ACE2 shedding and SARS-CoV-2 infection without cytotoxic effects, suggesting its potential as an antiviral treatment targeting ADAM17.  \n   - **Implication**: JG26 may serve as a novel therapeutic strategy against SARS-CoV-2.\n\n2. **Post-COVID-19 Fatigue and Sensorimotor Instability**  \n   - **Study**: Evaluated individualized stress-controlled training and cognitive behavioral therapy in post-COVID-19 patients over three years.  \n   - **Findings**: Significant improvements in fatigue and sensorimotor instability were observed, although secondary psychosomatic symptoms worsened.  \n   - **Implication**: Tailored therapeutic approaches can effectively address key symptoms of post-COVID-19 syndrome.\n\n3. **EGFR Pathway and SARS-CoV-2 Variants**  \n   - **Study**: Explored the role of the EGFR pathway in SARS-CoV-2 variant infectivity and the effects of the EGFR inhibitor osimertinib.  \n   - **Findings**: Osimertinib reduced infection rates in cell lines infected with SARS-CoV-2 variants without affecting cell viability.  \n   - **Implication**: EGFR inhibitors may represent a promising antiviral strategy against highly infectious SARS-CoV-2 variants.\n\n4. **Ethical Considerations in Intensive Care During Crises**  \n   - **Discussion**: Analyzed Swedish guidelines for prioritizing intensive care during the COVID-19 pandemic, emphasizing the need for clearer ethical guidance.  \n   - **Conclusion**: A legal overview of ethical principles is necessary to support equitable decision-making in critical care settings.\n\n5. **COVID-19 Management in Region S\u00f6rmland**  \n   - **Study**: Reviewed the management of COVID-19 patients in Region S\u00f6rmland, focusing on prioritization of care based on survival assessments.  \n   - **Findings**: A standardized approach led to a lower 30-day mortality rate compared to other regions in Sweden.  \n   - **Implication**: Effective triage and prioritization can improve outcomes in critical care during pandemics.\n\n6. **Monoclonal Antibodies in COVID-19 Patients**  \n   - **Study**: Assessed the efficacy of casirivimab/imdevimab in hospitalized COVID-19 patients in India.  \n   - **Findings**: No significant differences in clinical outcomes were observed between treated and control groups.  \n   - **Implication**: Monoclonal antibody therapy may not provide additional benefits in this population.\n\n7. **Design Criteria for Shelter Hospitals**  \n   - **Review**: Identified design criteria for converting public venues into shelter hospitals for biological emergencies.  \n   - **Findings**: Key themes included site selection, layout, and management measures, with challenges in basic infrastructure highlighted.  \n   - **Implication**: Preparedness for biological events requires clear guidelines for rapid hospital setup.\n\n8. **TRAIL and IP-10 in Vaccinated Pregnant Women**  \n   - **Study**: Evaluated TRAIL and IP-10 levels in vaccinated pregnant women post-COVID-19 diagnosis.  \n   - **Findings**: Lower TRAIL and higher IP-10 levels were noted in maternal blood, with antiviral treatment reducing these markers.  \n   - **Implication**: Monitoring these biomarkers may help assess infection severity and treatment efficacy in pregnant women.\n\n9. **Long COVID and the Need for Biomarkers**  \n   - **Review**: Discussed the prevalence and symptoms of Long COVID, emphasizing the lack of diagnostic biomarkers.  \n   - **Conclusion**: There is an urgent need for research to identify biomarkers and risk factors to improve management of Long COVID.  \n   - **Implication**: Addressing Long COVID is critical for future healthcare planning and resource allocation.\n\n10. **Support for Alzheimer's Caregivers**  \n    - **Study**: Developed a 'role-needs' framework for supporting Alzheimer's caregivers based on qualitative interviews.  \n    - **Findings**: Identified four caregiving approaches that highlight diverse support needs across cultures.  \n    - **Implication**: Tailored support strategies can enhance caregiver well-being and effectiveness globally.\n\nThese summaries highlight ongoing research and potential breakthroughs in the management of COVID-19, post-COVID conditions, and caregiver support, providing actionable insights for healthcare professionals and researchers.",
+        "status": "success",
+        "time_stamp": "2024-09-18_18-13-06"
+    }
+]
