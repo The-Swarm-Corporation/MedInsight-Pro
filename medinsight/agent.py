@@ -51,7 +51,6 @@ class MedInsightMetadataOutput(BaseModel):
     time_stamp: str = Field(time_stamp, description=None)
 
 
-
 class PubMedQuery(BaseModel):
     analysis_of_request: str = Field(
         ...,
@@ -61,10 +60,7 @@ class PubMedQuery(BaseModel):
         ...,
         description="Formulate a precise PubMed query based on the analysis of the request. Ensure the query includes the disease or condition name, relevant keywords, and MeSH terms. Incorporate Boolean operators to enhance search accuracy and retrieve the most pertinent research articles, reviews, and clinical trials.",
     )
-    max_articles: int = Field(
-        ...,
-        description=None
-    )
+    max_articles: int = Field(..., description=None)
 
 
 # Create an instance of the OpenAIChat class with GPT-4
@@ -138,9 +134,7 @@ class MedInsightPro:
         # Initialize the metadata history log
         # self.metadata_log: List[MedInsightMetadata] = []
         self.metadata_log = MedInsightMetadataOutput(
-            max_loops=max_loops,
-            logs=[],
-            task=""
+            max_loops=max_loops, logs=[], task=""
         )
 
     # Function to access Semantic Scholar data
@@ -163,20 +157,20 @@ class MedInsightPro:
 
     def run(self, task: str, *args, **kwargs):
         logger.info(f"Running MedInsightPro agent for task: {task}")
-        status = "success"
-        # pubmed_data, semantic_scholar_data = {}, {}
         combined_summary = ""
-        
+
         analysis = self.precise_query_agent.run(task)
         logger.info(f"Pubmed query: {analysis}")
-        
+
         query = analysis["pubmed_query"]
-        # num_articles = int(analysis["max_articles"])
 
         try:
             # Fetch data from PubMed
             pubmed_data, pubmed_dict = query_pubmed_with_abstract(
-                query=query, max_articles=self.max_articles, *args, **kwargs
+                query=query,
+                max_articles=self.max_articles,
+                *args,
+                **kwargs,
             )
             print(pubmed_dict)
             logger.info(f"PubMed data: {pubmed_data}")
@@ -205,12 +199,12 @@ class MedInsightPro:
 
         # Log metadata
         metadata = MedInsightMetadata(
-            task = task,
+            task=task,
             query_agent_analysis=analysis,
             pubmed_results=pubmed_dict,
             combined_summary=combined_summary,
             status="success",
-            time_stamp=time_stamp
+            time_stamp=time_stamp,
         )
         self.metadata_log.logs.append(metadata)
 
@@ -218,13 +212,13 @@ class MedInsightPro:
         self.save_metadata_log()
 
         # return combined_summary
-        
+
         if self.return_json:
             return self.metadata_log.model_dump_json()
-        
+
         else:
             return combined_summary
-    
+
     # Method to save the metadata log to a JSON file
     def save_metadata_log(self):
         """
