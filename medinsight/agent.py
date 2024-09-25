@@ -183,10 +183,10 @@ class MedInsightPro:
 
             # Summarize data with GPT-4
             # combined_summary_input = f"PubMed Data: {pubmed_data}\nSemantic Scholar Data: {semantic_scholar_data}"
-            if pubmed_data:
-                combined_summary_input = pubmed_data
-            else:
-                combined_summary_input = semantic_scholar_data
+            # if pubmed_data:
+            combined_summary_input = pubmed_data
+            # else:
+            #     combined_summary_input = semantic_scholar_data
 
             combined_summary = self.agent.run(combined_summary_input)
             logger.info(f"Summarization completed for task: {task}")
@@ -214,7 +214,7 @@ class MedInsightPro:
         # return combined_summary
 
         if self.return_json:
-            return self.metadata_log.model_dump_json()
+            return self.metadata_log.model_dump_json(indent=4)
 
         else:
             return combined_summary
@@ -230,6 +230,6 @@ class MedInsightPro:
         log_file = f"medinsight_pro_history_time:{time_stamp}.json"
 
         with open(log_file, "w") as file:
-            json.dump(self.metadata_log.model_dump(), file)
+            json.dump(self.metadata_log.model_dump_json(indent=4), file)
 
         logger.info(f"Metadata log saved to {log_file}")
